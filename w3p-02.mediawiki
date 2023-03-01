@@ -1,23 +1,24 @@
 Phases
-1: Existing web3/crypto privacy narration research.
-2: Handbook for web3 privacy advocacy.
+* Existing web3/crypto privacy narration research.
+* Handbook for web3 privacy advocacy.
 
 ==Phase 1==
 Delivery: research on industry narration around privacy from media coverage to professional opinions.
 
-**Goal**:
-- to map down privacy storytelling within the industry 
-- to cover privacy narration & web3/crypto within external agents 
-- structure framing, biases, vocabulary - make a foundation for a re-framing
+Goal:
+* to map down privacy storytelling within the industry 
+* to cover privacy narration & web3/crypto within external agents 
+* structure framing, biases, vocabulary - make a foundation for a re-framing
 
-**Areas of interest**:
+Areas of interest:
+
 internal gaze
 * How media frame privacy.
 * Differences within expert takes on privacy.
 * Existing privacy-centric vocabulary.
 * Privacy advocates comms directions.
 
-**external gaze**
+external gaze
 * How media & governments frame privacy. 
 * What privacy biases exists.
 
