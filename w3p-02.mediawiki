@@ -4,30 +4,30 @@ Background: privacy-centric narrations around web3 are full of controversies & b
 * Existing web3/crypto privacy narration research.
 * Handbook for web3 privacy advocacy.
 
-==Phase 1==
+==Phase 1: Existing web3/crypto privacy narration research==
 Delivery: research on industry narration around privacy from media coverage to professional opinions.
 
-Goal:
+=Goal=
 * to map down privacy storytelling within the industry 
 * to cover privacy narration & web3/crypto within external agents 
 * structure framing, biases, vocabulary - make a foundation for a re-framing
 
-Areas of interest:
+=Areas of interest=
 
-internal gaze
+=internal gaze=
 * How media frame privacy.
 * Differences within expert takes on privacy.
 * Existing privacy-centric vocabulary.
 * Privacy advocates comms directions.
 
-external gaze
+=external gaze=
 * How media & governments frame privacy. 
 * What privacy biases exist.
 
 **Approach** 
 Traditional media studies approach that researches both quantitative & qualitative narrations around subject.
 
-**Categorised within** 
+=Categorised=
 * positive, negative, neutral framing filters (tonality)
 * vocabulary segmentation 
 * relations within framing (Tornado Cash + North Korean hackers)
@@ -35,16 +35,17 @@ Traditional media studies approach that researches both quantitative & qualitati
 * privacy agents map (roles, relation to industry, pro / anti status)
 * text-based, visual content 
 
-==Phase 2== 
+==Phase 2: Handbook for web3 privacy advocacy== 
 Delivery: an actionable handbook for privacy advocacy.
 
-Details: research will help to make an actionable handbook for privacy advocacy rooted in re-framing existing toxic storytelling. Moreover, it will give instruction & positive narrations to sceptics (like Aztec co-founder stating that people don't need privacy). Think of this as a "privacy brandbook".
+=Details= 
+Research will help to make an actionable handbook for privacy advocacy rooted in re-framing existing toxic storytelling. Moreover, it will give instruction & positive narrations to sceptics (like Aztec co-founder stating that people don't need privacy). Think of this as a "privacy brandbook".
 
-Goal:
+=Goal=
 * have a easy to execute document for various audiences to become privacy advocates 
 * fact & stats accuracy helps to unify storytelling within multiple agents: media, experts, community 
 * helps to raise awareness about state of privacy storytelling within industry & beyond
 
-Format: 
+=Format= 
 * GitHub wiki 
 * PDF
