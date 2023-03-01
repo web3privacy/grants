@@ -1,30 +1,30 @@
-Phases 
+**Phases**
 1: Existing web3/crypto privacy narration research.
 2: Handbook for web3 privacy advocacy.
 
-Phase 1
+## Phase 1
 Delivery: research on industry narration around privacy from media coverage to professional opinions.
 
-Goal:
+**Goal**:
 - to map down privacy storytelling within the industry 
 - to cover privacy narration & web3/crypto within external agents 
 - structure framing, biases, vocabulary - make a foundation for a re-framing
 
-Areas of interest:
+**Areas of interest**:
 internal gaze
 1. How media frame privacy.
 2. Differences within expert takes on privacy.
 3. Existing privacy-centric vocabulary.
 4. Privacy advocates comms directions.
 
-external gaze 
+**external gaze**
 1. How media & governments frame privacy. 
 2. What privacy biases exists.
 
-Approach 
+**Approach** 
 Traditional media studies approach that researches both quantitative & qualitative narrations around subject.
 
-Categorised within 
+**Categorised within** 
 - positive, negative, neutral framing filters (tonality)
 - vocabulary segmentation 
 - relations within framing (Tornado Cash + North Korean hackers)
@@ -32,16 +32,16 @@ Categorised within
 - privacy agents map (roles, relation to industry, pro / anti status)
 - text-based, visual content 
 
-Phase 2 
+## Phase 2 
 Delivery: actionable handbook for privacy advocacy.
 
 Details: research will help to make actionable handbook for privacy advocacy rooted in re-framing existing toxic storytelling. Moreover, it will give instruction & positive narrations to sceptics (like Aztec co-founder stating that people don't need privacy). Think of this as a "privacy brandbook".
 
-Goal:
+**Goal**:
 - have a easy to execute document for various audiences to become privacy advocates 
 - fact & stats accuracy helps to unify storytelling within multiple agents: media, experts, community 
 - helps to raise awareness about state of privacy storytelling within industry & beyond
 
-Format: 
+**Format**: 
 - GitHub wiki 
 - PDF
