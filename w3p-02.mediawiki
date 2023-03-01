@@ -1,3 +1,11 @@
+<pre>
+  W3P: 2
+  Title: BIP Purpose and Guidelines
+  Status: pending
+  Type: Research
+  Created: 2023-03-01
+</pre>
+
 Background: privacy-centric narrations around web3 are full of controversies & biases generated not just by anti-privacy people but privacy experts. It impacts privacy storytelling that's still related to crime &/or "nothing to hide" communication. At the same time, the market lacks deeper research on privacy narrations & a system breakdown of all existing stereotypes & biases.
 
 ==Phases==
