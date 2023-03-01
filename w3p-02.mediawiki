@@ -1,6 +1,6 @@
 <pre>
   W3P: 2
-  Title: BIP Purpose and Guidelines
+  Title: Media studies: privacy narration
   Status: pending
   Type: Research
   Created: 2023-03-01
