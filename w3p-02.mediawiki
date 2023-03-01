@@ -38,11 +38,11 @@ Delivery: actionable handbook for privacy advocacy.
 
 Details: research will help to make actionable handbook for privacy advocacy rooted in re-framing existing toxic storytelling. Moreover, it will give instruction & positive narrations to sceptics (like Aztec co-founder stating that people don't need privacy). Think of this as a "privacy brandbook".
 
-**Goal**:
+Goal:
 * have a easy to execute document for various audiences to become privacy advocates 
 * fact & stats accuracy helps to unify storytelling within multiple agents: media, experts, community 
 * helps to raise awareness about state of privacy storytelling within industry & beyond
 
-**Format**: 
+Format: 
 * GitHub wiki 
 * PDF
