@@ -22,7 +22,7 @@ internal gaze
 
 external gaze
 * How media & governments frame privacy. 
-* What privacy biases exists.
+* What privacy biases exist.
 
 **Approach** 
 Traditional media studies approach that researches both quantitative & qualitative narrations around subject.
@@ -36,9 +36,9 @@ Traditional media studies approach that researches both quantitative & qualitati
 * text-based, visual content 
 
 ==Phase 2== 
-Delivery: actionable handbook for privacy advocacy.
+Delivery: an actionable handbook for privacy advocacy.
 
-Details: research will help to make actionable handbook for privacy advocacy rooted in re-framing existing toxic storytelling. Moreover, it will give instruction & positive narrations to sceptics (like Aztec co-founder stating that people don't need privacy). Think of this as a "privacy brandbook".
+Details: research will help to make an actionable handbook for privacy advocacy rooted in re-framing existing toxic storytelling. Moreover, it will give instruction & positive narrations to sceptics (like Aztec co-founder stating that people don't need privacy). Think of this as a "privacy brandbook".
 
 Goal:
 * have a easy to execute document for various audiences to become privacy advocates 
