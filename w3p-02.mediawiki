@@ -43,6 +43,12 @@ Traditional media studies approach that researches both quantitative & qualitati
 * privacy agents map (roles, relation to industry, pro / anti status)
 * text-based, visual content 
 
+References: 
+* COVID media studies: https://www.nature.com/articles/s41599-021-00900-z
+* https://www.nature.com/articles/s41467-020-19644-6
+
+Note: these are academic approach, that isn't necessary needed here in its full form.
+
 ==Phase 2: Handbook for web3 privacy advocacy== 
 Delivery: an actionable handbook for privacy advocacy.
 
