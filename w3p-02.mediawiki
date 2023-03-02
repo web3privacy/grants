@@ -63,3 +63,6 @@ Research will help to make an actionable handbook for privacy advocacy rooted in
 =Format= 
 * GitHub wiki 
 * PDF
+
+References:
+* Conversation toolkits for activists: https://www.amnestyusa.org/wp-content/uploads/2017/05/DeadlyForceConversationToolkit.pdf
