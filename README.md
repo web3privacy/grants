@@ -10,7 +10,7 @@ As part of our commitment to promoting privacy & security within the Web3 ecosys
 
 
 ⏚ **Core Contributors**
-Mykola Siusko [https://github.com/Msiusko]
+Mykola Siusko([https://github.com/Msiusko])
 Tree 
 Coinmandeer
 PG
