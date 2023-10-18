@@ -2,9 +2,26 @@
 ![Group 4046](https://github.com/web3privacy/grants/assets/101947219/4bb947f3-c8fd-4f2d-9816-b8e6e1d0d820)
 
 # ⌭ Introduction
-As part of our commitment to promoting privacy & security within the Web3 ecosystem, we present here our ongoing projects and ideas for which we seek funds. For more information about the Web3Privacy Now, please visit the About page on our website.
+In our dedication to enhancing privacy and security in the Web3 ecosystem, we showcase our projects and ideas seeking financial support to foster R&D.
+
+For more information about the Web3Privacy Now, please visit the About page on our website.
 
 # ❏ Privacy Annual Report 2023
+
+Following our [Privacy Market Overview (Jan 2023)](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Privacy%20market%20outlook%20in%20Web3%20by%20Mykola%20Siusko%20(Jan%202023).pdf) we intend to produce an Annual Report to showcase privacy state of the art. 
+
+The idea consist into structure the overall picture of the web3-privacy market exploring hundreds of independent companies and their connections with the potential for unity and collaboration. 
+
+## Why is it important now? 
+Regulators actively centralise the market. Moreover, while multiple agents are watching you, exchanges and wallets give you a sense of freedom of choice ("to KYC or not to KYC"). Analytics companies own & use your data without permission. Leaked news about the regulation of private cryptocurrencies and the Tornado Cash sanctions are a clear examples of why privacy needs advocacy. 
+
+![canvas](https://github.com/web3privacy/grants/assets/101947219/fdf9d64a-306a-4340-96e1-c0942d7aa891)
+
+
+Today, 350+ companies developing private solutions worldwide have a unique chance to unite and take responsibility for the original blockchain decentralisation ethos. 
+
+
+
 
 ### Team
 [Mykola Siusko](https://github.com/Msiusko)
@@ -15,7 +32,7 @@ As part of our commitment to promoting privacy & security within the Web3 ecosys
 
 <img width="1129" alt="Screenshot 2023-01-28 at 16 26 46" src="https://github.com/web3privacy/grants/assets/101947219/8c0aeabe-8ab4-4ef4-b1aa-0c8390318418">
 
-Privacy is a top priority in the era of web, an essential human right. Web3privacy now would create a scoring mechanism (both professional & communal) to provide unbiased tools for assessing projects & helping users through education, raising our collective privacy literacy.
+Privacy is a top priority in the era of web, an essential human right. Web3privacy now is creating a platform to help the general public understand whether a web3-service is private or not. To do so we are developing a unique scoring mechanism (both professional & communal) to provide unbiased tools for assessing projects & helping users through education, raising our collective privacy literacy. 
 
 ![Screenshot 2023-01-27 at 11 48 45](https://github.com/web3privacy/grants/assets/101947219/61c00f05-369c-4990-a5db-651365208c99)
 
