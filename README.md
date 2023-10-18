@@ -81,7 +81,7 @@ Design & coding track: Misha Shishkin lead decentralised design agency Kidults -
 Community accessibility & awareness: Pineapple Proxy
 
 
-# ⌬ Privacy guides:
+# ⎆ Privacy guides:
 Extensive privacy guides covering broad audiences from Iranian human rights activists to Ukrainian people living on occupied territories.
 
 Practical guides will match:
