@@ -27,7 +27,7 @@ Let's stop fighing each other for the best feature, protocol or chain and find c
 
 [PG](https://github.com/EclecticSamurai)
 
-# ⌬ Privacy Beat
+# ✵ Privacy Beat
 ## Ranking system of all privacy-related projects in the Web3
 
 <img width="1129" alt="Screenshot 2023-01-28 at 16 26 46" src="https://github.com/web3privacy/grants/assets/101947219/8c0aeabe-8ab4-4ef4-b1aa-0c8390318418">
@@ -39,7 +39,7 @@ To do so we are therefore creating a unique scoring mechanism (both professional
 ![Screenshot 2023-01-27 at 11 48 45](https://github.com/web3privacy/grants/assets/101947219/61c00f05-369c-4990-a5db-651365208c99)
 
 
-### ✵ Scoring mechanism: 
+### Scoring mechanism: 
 We are working on a unique privacy scoring mechanism & create a tool with the help of privacy experts from the Ethereum Foundation, NYM and others while building on the experiene of active members from both solar and lunarpunk communities. 
 
 Professional scoring would be a joint R&D with the key web3 people from protocol architects to security specialists. This will help to create an unbiased take from scratch & enabling a transparent working process, accessible to everyone via a forum.
