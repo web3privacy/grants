@@ -1,8 +1,9 @@
-# Web3Privacy Now
-![Group 4046](https://github.com/web3privacy/grants/assets/101947219/4bb947f3-c8fd-4f2d-9816-b8e6e1d0d820)
+# Web3Privacy Now Fund Requests
+![1500x500](https://github.com/web3privacy/grants/assets/101947219/2b2b6ba7-09ba-4b9b-a5e8-65610e3afc1b)
+
 
 # ⌭ Introduction
-In our dedication to enhancing privacy and security in the Web3 ecosystem, we showcase our projects and ideas seeking financial support to foster R&D.
+In our dedication to enhancing privacy and security in the Web3 ecosystem, we showcase our projects and ideas seeking financial support to foster R&D on specific verticals.
 
 For more information about the Web3Privacy Now, please visit the About page on our website.
 
