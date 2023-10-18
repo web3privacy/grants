@@ -10,7 +10,8 @@ As part of our commitment to promoting privacy & security within the Web3 ecosys
 [Mykola Siusko](https://github.com/Msiusko)
 [PG](https://github.com/EclecticSamurai)
 
-# ❏ Privacy Beat - ranking system of all privacy-related projects in the Web3
+# ❏ Privacy Beat
+## Ranking system of all privacy-related projects in the Web3
 
 <img width="1129" alt="Screenshot 2023-01-28 at 16 26 46" src="https://github.com/web3privacy/grants/assets/101947219/8c0aeabe-8ab4-4ef4-b1aa-0c8390318418">
 
@@ -51,30 +52,24 @@ Time-to-MVP > 3 months
 
 Breakdown:
 
-    Scoring modeling: 3 weeks+
-    Product management (UX, copy, scoring aplicability, design): 1 month
-    Web-development + testing: 1 month
+Scoring modeling: 3 weeks+
+Product management (UX, copy, scoring aplicability, design): 1 month
+Web-development + testing: 1 month
 
 
 ### Team
 
+MVP-management: core project manager > Mykola Siusko [GitHub](https://github.com/Msiusko), Twitter, LinkedIn
 
-    MVP-management: core project manager > Mykola Siusko GitHub, Twitter, LinkedIn
-    Research track: Mykola Siusko, Pineapple Proxy (https://pnproxy.org)
-    Product: Nick Havryliak
-    Design & coding track: Misha Shishkin lead decentralised design agency Kidults - female-led UX/UI, 1x copywriter, 1x designer, 1x project manager
-    Community accessibility & awareness: Pineapple Proxy
+Research track: [Mykola Siusko](https://github.com/Msiusko), [Pineapple Proxy](https://pnproxy.org), [PG](https://github.com/EclecticSamurai)
+
+Product:[Coinmandeer](https://github.com/coinmandeer), [Tree](https://github.com/burningtree), [Cryptomar1o](https://github.com/cryptomar1o)
+
+Design & coding track: Misha Shishkin lead decentralised design agency Kidults - female-led UX/UI, 1x copywriter, 1x designer, 1x project manager
+
+Community accessibility & awareness: Pineapple Proxy
 
 
-[Mykola Siusko](https://github.com/Msiusko)
-
-[Tree](https://github.com/burningtree)
-
-[Coinmandeer](https://github.com/coinmandeer)
-
-[PG](https://github.com/EclecticSamurai)
-
-[Cryptomar1o](https://github.com/cryptomar1o)
 
 ## Where are we now:
 Homework has been done: 350+ projects in the public [database](https://github.com/Msiusko/web3privacy), ZK projects [database](https://github.com/Msiusko/web3privacy/tree/main/ZKprivacylandscape), Market research [outlook](https://github.com/Msiusko/web3privacy/blob/main/Market%20overview/Privacy%20market%20outlook%20in%20Web3%20by%20Mykola%20Siusko%20(Jan%202023).pdf)
