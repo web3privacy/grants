@@ -7,7 +7,7 @@ In our dedication to enhancing privacy and security in the Web3 ecosystem, we sh
 
 For more information about the Web3Privacy Now, please visit the About page on our website.
 
-# ☞ Privacy Annual Report 2023
+# ⌬ Privacy Annual Report 2023
 
 Following our [Privacy Market Overview](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Privacy%20market%20outlook%20in%20Web3%20by%20Mykola%20Siusko%20(Jan%202023).pdf)(Jan 2023) we intend to produce an Annual Report to showcase privacy's state of the art. 
 
@@ -27,7 +27,7 @@ Let's stop fighing each other for the best feature, protocol or chain and find c
 
 [PG](https://github.com/EclecticSamurai)
 
-# ⎆ Privacy Beat
+# ⌬ Privacy Beat
 ## Ranking system of all privacy-related projects in the Web3
 
 <img width="1129" alt="Screenshot 2023-01-28 at 16 26 46" src="https://github.com/web3privacy/grants/assets/101947219/8c0aeabe-8ab4-4ef4-b1aa-0c8390318418">
