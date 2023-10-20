@@ -3,7 +3,7 @@
 
 
 # ⌭ Introduction
-In our dedication to enhancing privacy and security in the Web3 ecosystem, we showcase our projects and ideas seeking financial support to foster R&D on specific verticals.
+In our dedication to enhancing privacy and security in the Web3 ecosystem, we showcase our projects and ideas seeking financial support to foster R&D on specific verticals:
 
 - [Privacy Annual Report 2023](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-annual-report-2023)
 - [Privacy Beat](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat)
@@ -12,6 +12,9 @@ In our dedication to enhancing privacy and security in the Web3 ecosystem, we sh
 - [Privacy Checker Tool](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-checker-tool)
 
 For more information about the Web3Privacy Now, please visit the About page on our website.
+
+> [!NOTE]
+> We are looking for partners, not advertisers.
 
 # ⌬ Privacy Annual Report 2023
 
