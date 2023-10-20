@@ -5,6 +5,12 @@
 # ⌭ Introduction
 In our dedication to enhancing privacy and security in the Web3 ecosystem, we showcase our projects and ideas seeking financial support to foster R&D on specific verticals.
 
+- [Privacy Annual Report 2023](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-annual-report-2023)
+- [Privacy Beat](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat)
+- [Privacy Guides](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-guides)
+- [Hacker Manuals & Privacy Guidelines](https://github.com/web3privacy/grants/blob/main/README.md#-hacker-manuals--privacy-guidelines)
+- [Privacy Checker Tool](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-checker-tool)
+
 For more information about the Web3Privacy Now, please visit the About page on our website.
 
 # ⌬ Privacy Annual Report 2023
@@ -106,7 +112,7 @@ A practical tool for the general public to check the possibilities of anonymous 
 ![PRIVACY ROUTER](https://github.com/web3privacy/grants/assets/101947219/8c4f0a22-2f2d-4683-be8c-0dde686e9ee3)
 ![PRIVACY-SOLUTIONS](https://github.com/web3privacy/grants/assets/101947219/07cbeb15-36c1-447c-b5ff-6d5d56c44722)
 
-## Readiness: 30%
+Readiness: 30%
 
 
 
