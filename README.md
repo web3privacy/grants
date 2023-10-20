@@ -34,13 +34,19 @@ Let's stop fighing each other for the best feature, protocol or chain and find c
 
 Privacy is a top priority in the era of web, an essential human right. Drived by this we are creating a platform to help the general public understand whether a web3-service is private or not. 
 
-To do so we are therefore creating a unique scoring mechanism (both professional & communal) to provide unbiased tools for assessing projects & helping users.  
+To do so we are developing a unique scoring mechanism (both professional & communal) to provide unbiased tools for assessing projects & helping users.  
+
+###Readiness
+
+Data: 90%
+Platform: 75%
+Scoring Mechanism: 45%
 
 ![Screenshot 2023-01-27 at 11 48 45](https://github.com/web3privacy/grants/assets/101947219/61c00f05-369c-4990-a5db-651365208c99)
 
 
-### Scoring mechanism: 
-We are working on a unique privacy scoring mechanism & create a tool with the help of privacy experts from the Ethereum Foundation, NYM and others while building on the experiene of active members from both solar and lunarpunk communities. 
+### Scoring Mechanism: 
+We are working on a unique privacy scoring mechanism & create a tool with the help of privacy experts from the Ethereum Foundation, Railgun, Waku, NYM and others while building on the experiene of active members from both solar and lunarpunk communities. 
 
 Professional scoring would be a joint R&D with the key web3 people from protocol architects to security specialists. This will help to create an unbiased take from scratch & enabling a transparent working process, accessible to everyone via a forum.
 
@@ -90,5 +96,17 @@ Practical guides will match:
 - non-tech people with accessible privacy solutions (with the focus on human rights & sensitive audiences)
 - tech-people with advanced privacy solutions & practices
 
+# ⎆ Hacker Manuals & Privacy Guidelines:
+## Hackathon curation 
 
-Grants applications created by Web3privacy now team
+
+# ⍚ Privacy Checker Tool
+A practical tool for the general public to check the possibilities of anonymous transactions against current market conditions.
+
+![PRIVACY ROUTER](https://github.com/web3privacy/grants/assets/101947219/8c4f0a22-2f2d-4683-be8c-0dde686e9ee3)
+![PRIVACY-SOLUTIONS](https://github.com/web3privacy/grants/assets/101947219/07cbeb15-36c1-447c-b5ff-6d5d56c44722)
+
+## Readiness: 30%
+
+
+
