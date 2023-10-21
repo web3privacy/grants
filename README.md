@@ -11,7 +11,7 @@ In our dedication to enhancing privacy and security in the Web3 ecosystem, we sh
 - [Hacker Manuals & Privacy Guidelines](https://github.com/web3privacy/grants/blob/main/README.md#-hacker-manuals--privacy-guidelines)
 - [Privacy Checker Tool](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-checker-tool)
 
-For more information about the Web3Privacy Now, please visit the About page on our website.
+For more information about the [Web3Privacy Now Ecosystem](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/_ykJ2VOcRrH720OZTy0tT1kjrgP5kdc0Vykb0VVle0w) please visit the About page on our website.
 
 > [!NOTE]
 > We are looking for partners, not advertisers.
@@ -116,6 +116,40 @@ A practical tool for the general public to check the possibilities of anonymous 
 ![PRIVACY-SOLUTIONS](https://github.com/web3privacy/grants/assets/101947219/07cbeb15-36c1-447c-b5ff-6d5d56c44722)
 
 Readiness: 30%
+
+
+# ⛲︎ Privacy-centric dedicated media
+Privacy as a human right could protect humans from government surveillance, redefine corporate-personal relations, and significantly reduce surveillance capitalism. In other words, accelerate decentralization on both practical and philosophical levels. Moreover, it will lead to thousands of saved human lives in non-democratic countries.
+
+Pursuing our mission to **make decentralized privacy known and accessible to billions of people** we will realize a series of interviews and documentaries with a professional film crew. 
+
+> "Most information is produced by platforms and media that seemingly have no values or code of ethics. They do not care about freedom or decentralization. They do not verify their sources, they support dubious projects, they do not mind cooperating with centralized exchanges and projects, and they are often advocates of regulation.
+Unprincipled commerce or blunt collectivism is thus the main thing that today's person interested in cryptocurrencies will encounter. The former creates chaos and the latter creates an unhealthy cults."
+
+Our goal is to create a counter-culture against these two approaches. We want to create an information resource, chain-agnostic cult and community based not on one cryptocurrency or ecosystem but on the promotion of basic values such as freedom, openness, decentralization, neutrality or privacy." 
+
+- from NYKNYC [whitepaper](https://github.com/nyknycmag/whitepaper).
+
+
+
+### Key Deliverables:
+- interview 10 key players in the privacy ecosystem / 1 Documentary
+- create dedicated brand, media and channels
+- 
+
+### Timing:
+- 6 to 8 months
+
+![Group 3692(2)](https://github.com/web3privacy/grants/assets/101947219/b2db8370-c363-4eda-a132-419891c82455)
+
+
+# NO-GRANTS PROJECTS YOU CAN HELP US WITH:
+
+# Cultivating & Maintaining the biggest [privacy-centric Database](https://web3privacy.info/)
+
+**Organizations** -> Do pull requests to update your data 
+
+**General Contributors & User Feedbacks** -> DM on [X](https://twitter.com/web3privacy), [Signal](https://signal.group/#CjQKIH-1ZYEGp50OBvbJRbITIRxDzjH2pSxl7vdkVZs9g5vgEhDAKUlgYdpxpCpTkNVxow4X) 
 
 
 
