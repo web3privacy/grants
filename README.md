@@ -52,9 +52,24 @@ To do so we are developing a unique scoring mechanism (both professional & commu
 - Platform: 75%
 - Scoring Mechanism: 45%
 
-![Screenshot 2023-01-27 at 11 48 45](https://github.com/web3privacy/grants/assets/101947219/61c00f05-369c-4990-a5db-651365208c99)
-
 - [Live Demo](https://taikai.network/ethrome/hackathons/ethrome-23/projects/clng508ts00lswu01030hpfuq/idea)
+
+### Deliverables:
+- scoring model v 1.0 + expert validation
+- basic functionality mapping (incl. UX/UI research), copywriting, basic brand design system, scoring model applicability to all existing privacy-preserving web3 projects (300+ projects).
+
+### Timings
+- MVP > 3 months
+- Scoring modeling: 3 weeks+
+- Product management (UX, copy, scoring aplicability, design): 1 month
+- Web-development + testing: 1 month
+
+### Team
+- Core project manager > Mykola Siusko [GitHub](https://github.com/Msiusko), [Twitter](https://twitter.com/nicksvyaznoy), [LinkedIn](https://www.linkedin.com/in/siusko/)
+- Research track: [Mykola Siusko](https://github.com/Msiusko), [PG](https://github.com/EclecticSamurai)
+- Product:[Coinmandeer](https://github.com/coinmandeer), [Tree](https://github.com/burningtree), [Cryptomar1o](https://github.com/cryptomar1o)
+
+![Screenshot 2023-01-27 at 11 48 45](https://github.com/web3privacy/grants/assets/101947219/61c00f05-369c-4990-a5db-651365208c99)
 
 ## Scoring Mechanism: 
 We are working on a unique privacy scoring mechanism & create a tool with the help of privacy experts from the Ethereum Foundation, Railgun, Waku, NYM and others while building on the experiene of active members from both solar and lunarpunk communities. 
@@ -72,26 +87,6 @@ We interviewed 100 privacy players & gathered an MVP vision — we are running a
 - [Clutch](https://clutch.co/methodology)
 
 
-### Deliverables:
-- scoring model v 1.0 + expert validation
-- basic functionality mapping (incl. UX/UI research), copywriting, basic brand design system, scoring model applicability to all existing privacy-preserving web3 projects (300+ projects).
-
-### Timings
-- MVP > 3 months
-
-### Breakdown:
-- Scoring modeling: 3 weeks+
-- Product management (UX, copy, scoring aplicability, design): 1 month
-- Web-development + testing: 1 month
-
-
-### Team
-
-- MVP-management: core project manager > Mykola Siusko [GitHub](https://github.com/Msiusko), [Twitter](https://twitter.com/nicksvyaznoy), [LinkedIn](https://www.linkedin.com/in/siusko/)
-- Research track: [Mykola Siusko](https://github.com/Msiusko), [Pineapple Proxy](https://pnproxy.org), [PG](https://github.com/EclecticSamurai)
-- Product:[Coinmandeer](https://github.com/coinmandeer), [Tree](https://github.com/burningtree), [Cryptomar1o](https://github.com/cryptomar1o)
-
-
 # ⍚ Privacy Checker Tool
 
 The "Privacy Checker" is an invaluable and pragmatic tool designed to empower individuals (general public) and organizations by equipping them with insights, information on privacy options and transparency. An effortless way to assess the feasibility of conducting anonymous transactions within the context of the current market conditions. 
@@ -106,22 +101,32 @@ The tool doesn't just cater to the needs of the seasoned blockchain enthusiasts 
 ### Deliverables: 
 - Platform
 
-
 ### Readiness: 30%
 
+### Team
+- Project Managers > Mykola Siusko [GitHub](https://github.com/Msiusko), [Twitter](https://twitter.com/nicksvyaznoy), [LinkedIn](https://www.linkedin.com/in/siusko/) | [PG](https://github.com/EclecticSamurai)
+- Product:[Coinmandeer](https://github.com/coinmandeer), [Tree](https://github.com/burningtree), [Cryptomar1o](https://github.com/cryptomar1o)
 
 # ⎆ Privacy guides:
 Extensive privacy guides covering broad audiences from Iranian human rights activists to Ukrainian people living on occupied territories.
 
 Practical guides will match:
-
 - existing privacy solutions from Sismo to NYM with privacy-personas (NGOs, anon donors, activists).
 - non-tech people with accessible privacy solutions (with the focus on human rights & sensitive audiences)
 - tech-people with advanced privacy solutions & practices
 
+### Team
+- Project Manager: Mykola Siusko [GitHub](https://github.com/Msiusko), [Twitter](https://twitter.com/nicksvyaznoy), [LinkedIn](https://www.linkedin.com/in/siusko/)
+- R&D: [PG](https://github.com/EclecticSamurai)
+- Product:[Coinmandeer](https://github.com/coinmandeer), [Tree](https://github.com/burningtree)
 
 # ⎆ Hacker Manuals & Privacy Guidelines:
 ## Hackathon curation 
+
+### Team
+- Project Manager: Mykola Siusko [GitHub](https://github.com/Msiusko), [Twitter](https://twitter.com/nicksvyaznoy), [LinkedIn](https://www.linkedin.com/in/siusko/)
+- R&D: [PG](https://github.com/EclecticSamurai)
+- Product:[Coinmandeer](https://github.com/coinmandeer), [Tree](https://github.com/burningtree)
 
 ![Group 3692(2)](https://github.com/web3privacy/grants/assets/101947219/b2db8370-c363-4eda-a132-419891c82455)
 
