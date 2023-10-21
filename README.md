@@ -96,12 +96,21 @@ Community accessibility & awareness: Pineapple Proxy
 
 
 # ⍚ Privacy Checker Tool
-A practical tool for the general public to check the possibilities of anonymous transactions against current market conditions.
+
+The "Privacy Checker" is an invaluable and pragmatic tool designed to empower individuals (general public) and organizations by equipping them with insights, information on privacy options and transparency. An effortless way to assess the feasibility of conducting anonymous transactions within the context of the current market conditions. 
+
+In an era where online privacy and security have become paramount concerns, the Privacy Checker emerges as a user-friendly resource, enabling users to make informed decisions. It simplifies a complex process, making it accessible to everyone, from the tech-savvy to those new to the world of cryptocurrencies and digital transactions.
 
 ![PRIVACY ROUTER](https://github.com/web3privacy/grants/assets/101947219/8c4f0a22-2f2d-4683-be8c-0dde686e9ee3)
 ![PRIVACY-SOLUTIONS](https://github.com/web3privacy/grants/assets/101947219/07cbeb15-36c1-447c-b5ff-6d5d56c44722)
 
-Readiness: 30%
+The tool doesn't just cater to the needs of the seasoned blockchain enthusiasts but extends its utility to those seeking more privacy-conscious transactions in an increasingly interconnected digital landscape. With "Privacy Checker," users are empowered to navigate the intricate web of privacy measures efficiently, ensuring their data and assets remain secure.
+
+### Deliverables: 
+- Platform
+
+
+### Readiness: 30%
 
 
 # ⛲︎ Privacy-centric dedicated media
