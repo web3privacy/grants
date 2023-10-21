@@ -15,7 +15,7 @@ In our dedication to enhancing privacy and security in the Web3 ecosystem, we sh
 
 ⎆ [Hacker Manuals & Privacy Guidelines](https://github.com/web3privacy/grants/blob/main/README.md#-hacker-manuals--privacy-guidelines)
 
-[No-grants Projects you can contribute to](https://github.com/web3privacy/grants/blob/main/README.md#-cultivating--maintaining-the-biggest-privacy-centric-database)
+⌘ [Other no-grants Projects you can help with](https://github.com/web3privacy/grants/blob/main/README.md#-cultivating--maintaining-the-biggest-privacy-centric-database)
 
 For more information about our [Ecosystem](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/_ykJ2VOcRrH720OZTy0tT1kjrgP5kdc0Vykb0VVle0w) please visit the About page on our website.
 
@@ -125,7 +125,7 @@ Practical guides will match:
 
 ![Group 3692(2)](https://github.com/web3privacy/grants/assets/101947219/b2db8370-c363-4eda-a132-419891c82455)
 
-NO-GRANTS PROJECTS you can help us with:
+⌘ Other no-grant Projects you can help us with:
 
 # ✻ Cultivating & Maintaining the biggest [privacy-centric Database](https://web3privacy.info/)
 
