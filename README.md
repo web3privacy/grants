@@ -13,7 +13,7 @@ In our dedication to enhancing privacy and security in the Web3 ecosystem, we sh
 
 For more information about the [Web3Privacy Now Ecosystem](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/_ykJ2VOcRrH720OZTy0tT1kjrgP5kdc0Vykb0VVle0w) please visit the About page on our website.
 
-note: We are looking for partners, not advertisers.
+> _We are looking for partners, not advertisers._
 
 # ⌬ Privacy Annual Report 2023
 
