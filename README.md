@@ -6,12 +6,16 @@
 In our dedication to enhancing privacy and security in the Web3 ecosystem, we showcase our projects and ideas seeking financial support to foster R&D on specific verticals:
 
 ⌬ [Privacy Annual Report 2023](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-annual-report-2023)
+
 ✵ [Privacy Beat](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat)
+
 ⍚ [Privacy Checker Tool](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-checker-tool)
   
 ⎆ [Privacy Guides](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-guides)
+
 ⎆ [Hacker Manuals & Privacy Guidelines](https://github.com/web3privacy/grants/blob/main/README.md#-hacker-manuals--privacy-guidelines)
-[NO-GRANTS PROJECTS](https://github.com/web3privacy/grants/blob/main/README.md#-cultivating--maintaining-the-biggest-privacy-centric-database)
+
+[No-grants Projects you can contribute to](https://github.com/web3privacy/grants/blob/main/README.md#-cultivating--maintaining-the-biggest-privacy-centric-database)
 
 For more information about our [Ecosystem](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/_ykJ2VOcRrH720OZTy0tT1kjrgP5kdc0Vykb0VVle0w) please visit the About page on our website.
 
