@@ -7,6 +7,8 @@ In our dedication to enhancing privacy and security in the Web3 ecosystem, we sh
 
 - [Privacy Annual Report 2023](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-annual-report-2023)
 - [Privacy Beat](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat)
+- [Privacy Checker Tool](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-checker-tool)
+- [Production of interviews and documentaries](https://github.com/web3privacy/grants/blob/main/README.md#%EF%B8%8E-privacy-centric-dedicated-media)
 - [Privacy Guides](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-guides)
 - [Hacker Manuals & Privacy Guidelines](https://github.com/web3privacy/grants/blob/main/README.md#-hacker-manuals--privacy-guidelines)
 - [Privacy Checker Tool](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-checker-tool)
@@ -113,7 +115,7 @@ The tool doesn't just cater to the needs of the seasoned blockchain enthusiasts 
 ### Readiness: 30%
 
 
-# ⛲︎ Privacy-centric dedicated media
+# ⛲︎ Production of interviews and documentaries
 Privacy as a human right could protect humans from government surveillance, redefine corporate-personal relations, and significantly reduce surveillance capitalism. In other words, accelerate decentralization on both practical and philosophical levels. Moreover, it will lead to thousands of saved human lives in non-democratic countries.
 
 Pursuing our mission to **make decentralized privacy known and accessible to billions of people** we will realize a series of interviews and documentaries with a professional film crew. 
