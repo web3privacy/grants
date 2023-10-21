@@ -15,7 +15,7 @@ In our dedication to enhancing privacy and security in the Web3 ecosystem, we sh
 
 ⎆ [Hacker Manuals & Privacy Guidelines](https://github.com/web3privacy/grants/blob/main/README.md#-hacker-manuals--privacy-guidelines)
 
-⌘ [Other no-grants Projects you can help us with](https://github.com/web3privacy/grants/blob/main/README.md#-cultivating--maintaining-db)
+[Other no-grants Projects you can help us with](https://github.com/web3privacy/grants/blob/main/README.md#-cultivating--maintaining-db) ⌘
 
 For more information about our [Ecosystem](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/_ykJ2VOcRrH720OZTy0tT1kjrgP5kdc0Vykb0VVle0w) please visit the About page on our website.
 
