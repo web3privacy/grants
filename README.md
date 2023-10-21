@@ -149,14 +149,13 @@ Practical guides will match:
 
 ![Group 3692(2)](https://github.com/web3privacy/grants/assets/101947219/b2db8370-c363-4eda-a132-419891c82455)
 
+NO-GRANTS PROJECTS you can help us with:
 
-# NO-GRANTS PROJECTS you can help us with:
+# Cultivating & Maintaining the biggest [privacy-centric Database](https://web3privacy.info/)
 
-## Cultivating & Maintaining the biggest [privacy-centric Database](https://web3privacy.info/)
+Organizations -> Do pull requests to update your data 
 
-**Organizations** -> Do pull requests to update your data 
-
-**General Contributors & User Feedbacks** -> DM on [X](https://twitter.com/web3privacy), [Signal](https://signal.group/#CjQKIH-1ZYEGp50OBvbJRbITIRxDzjH2pSxl7vdkVZs9g5vgEhDAKUlgYdpxpCpTkNVxow4X) 
+General Contributors & User Feedbacks -> DM on [X](https://twitter.com/web3privacy), [Signal](https://signal.group/#CjQKIH-1ZYEGp50OBvbJRbITIRxDzjH2pSxl7vdkVZs9g5vgEhDAKUlgYdpxpCpTkNVxow4X) 
 
 
 
