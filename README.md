@@ -110,7 +110,9 @@ Privacy as a human right could protect humans from government surveillance, rede
 Pursuing our mission to **make decentralized privacy known and accessible to billions of people** we will realize a series of interviews and documentaries with a professional film crew. 
 
 > "Most information is produced by platforms and media that seemingly have no values or code of ethics. They do not care about freedom or decentralization. They do not verify their sources, they support dubious projects, they do not mind cooperating with centralized exchanges and projects, and they are often advocates of regulation.
+
 Unprincipled commerce or blunt collectivism is thus the main thing that today's person interested in cryptocurrencies will encounter. The former creates chaos and the latter creates an unhealthy cults.
+
 Our goal is to create a counter-culture against these two approaches. We want to create an information resource, chain-agnostic cult and community based not on one cryptocurrency or ecosystem but on the promotion of basic values such as freedom, openness, decentralization, neutrality or privacy." / from NYKNYC [whitepaper](https://github.com/nyknycmag/whitepaper).
 
 
