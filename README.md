@@ -95,19 +95,6 @@ Design & coding track: Misha Shishkin lead decentralised design agency Kidults -
 Community accessibility & awareness: Pineapple Proxy
 
 
-# ⎆ Privacy guides:
-Extensive privacy guides covering broad audiences from Iranian human rights activists to Ukrainian people living on occupied territories.
-
-Practical guides will match:
-
-- existing privacy solutions from Sismo to NYM with privacy-personas (NGOs, anon donors, activists).
-- non-tech people with accessible privacy solutions (with the focus on human rights & sensitive audiences)
-- tech-people with advanced privacy solutions & practices
-
-# ⎆ Hacker Manuals & Privacy Guidelines:
-## Hackathon curation 
-
-
 # ⍚ Privacy Checker Tool
 A practical tool for the general public to check the possibilities of anonymous transactions against current market conditions.
 
@@ -139,12 +126,24 @@ Our goal is to create a counter-culture against these two approaches. We want to
 ### Timing:
 - 6 to 8 months
 
+# ⎆ Privacy guides:
+Extensive privacy guides covering broad audiences from Iranian human rights activists to Ukrainian people living on occupied territories.
+
+Practical guides will match:
+
+- existing privacy solutions from Sismo to NYM with privacy-personas (NGOs, anon donors, activists).
+- non-tech people with accessible privacy solutions (with the focus on human rights & sensitive audiences)
+- tech-people with advanced privacy solutions & practices
+
+# ⎆ Hacker Manuals & Privacy Guidelines:
+## Hackathon curation 
+
 ![Group 3692(2)](https://github.com/web3privacy/grants/assets/101947219/b2db8370-c363-4eda-a132-419891c82455)
 
 
-# NO-GRANTS PROJECTS YOU CAN HELP US WITH:
+# NO-GRANTS PROJECTS you can help us with:
 
-# Cultivating & Maintaining the biggest [privacy-centric Database](https://web3privacy.info/)
+## Cultivating & Maintaining the biggest [privacy-centric Database](https://web3privacy.info/)
 
 **Organizations** -> Do pull requests to update your data 
 
