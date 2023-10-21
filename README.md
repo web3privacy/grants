@@ -30,12 +30,9 @@ Regulators actively centralise the market. Moreover, while multiple agents are w
 
 Let's stop fighing each other for the best feature, protocol or chain and find common ground to build a better web. Together.
 
-
 ### Team
-
-[Mykola Siusko](https://github.com/Msiusko)
-
-[PG](https://github.com/EclecticSamurai)
+- [Mykola Siusko](https://github.com/Msiusko)
+- [PG](https://github.com/EclecticSamurai)
 
 # ✵ Privacy Beat
 ## Ranking system of all privacy-related projects in the Web3
@@ -46,16 +43,16 @@ Privacy is a top priority in the era of web, an essential human right. Drived by
 
 To do so we are developing a unique scoring mechanism (both professional & communal) to provide unbiased tools for assessing projects & helping users.  
 
-###Readiness
-
-Data: 90%
-Platform: 75%
-Scoring Mechanism: 45%
+### Readiness
+- Data: 90%
+- Platform: 75%
+- Scoring Mechanism: 45%
 
 ![Screenshot 2023-01-27 at 11 48 45](https://github.com/web3privacy/grants/assets/101947219/61c00f05-369c-4990-a5db-651365208c99)
 
+- [Live Demo](https://taikai.network/ethrome/hackathons/ethrome-23/projects/clng508ts00lswu01030hpfuq/idea)
 
-### Scoring Mechanism: 
+## Scoring Mechanism: 
 We are working on a unique privacy scoring mechanism & create a tool with the help of privacy experts from the Ethereum Foundation, Railgun, Waku, NYM and others while building on the experiene of active members from both solar and lunarpunk communities. 
 
 Professional scoring would be a joint R&D with the key web3 people from protocol architects to security specialists. This will help to create an unbiased take from scratch & enabling a transparent working process, accessible to everyone via a forum.
@@ -64,9 +61,11 @@ In parallel to the top-down scorecard method, we'll develop and implement a bott
 
 We interviewed 100 privacy players & gathered an MVP vision — we are running a series of 1-on-1 feedback loop sessions to make the scoring model community validated.
 
-[Live Demo](https://taikai.network/ethrome/hackathons/ethrome-23/projects/clng508ts00lswu01030hpfuq/idea) 
-
-References: www.l2beat.com + www.certik.com + https://www.metacritic.com/about-metascores + [Clutch](https://clutch.co/methodology)
+### References:
+- [l2beat](www.l2beat.com)
+- [certik](www.certik.com)
+- [metacritic](https://www.metacritic.com/about-metascores)
+- [Clutch](https://clutch.co/methodology)
 
 
 ### Deliverables:
@@ -74,27 +73,19 @@ References: www.l2beat.com + www.certik.com + https://www.metacritic.com/about-m
 - basic functionality mapping (incl. UX/UI research), copywriting, basic brand design system, scoring model applicability to all existing privacy-preserving web3 projects (300+ projects).
 
 ### Timings
+- MVP > 3 months
 
-Time-to-MVP > 3 months
-
-Breakdown:
-
-Scoring modeling: 3 weeks+
-Product management (UX, copy, scoring aplicability, design): 1 month
-Web-development + testing: 1 month
+### Breakdown:
+- Scoring modeling: 3 weeks+
+- Product management (UX, copy, scoring aplicability, design): 1 month
+- Web-development + testing: 1 month
 
 
 ### Team
 
-MVP-management: core project manager > Mykola Siusko [GitHub](https://github.com/Msiusko), Twitter, LinkedIn
-
-Research track: [Mykola Siusko](https://github.com/Msiusko), [Pineapple Proxy](https://pnproxy.org), [PG](https://github.com/EclecticSamurai)
-
-Product:[Coinmandeer](https://github.com/coinmandeer), [Tree](https://github.com/burningtree), [Cryptomar1o](https://github.com/cryptomar1o)
-
-Design & coding track: Misha Shishkin lead decentralised design agency Kidults - female-led UX/UI, 1x copywriter, 1x designer, 1x project manager
-
-Community accessibility & awareness: Pineapple Proxy
+- MVP-management: core project manager > Mykola Siusko [GitHub](https://github.com/Msiusko), [Twitter](https://twitter.com/nicksvyaznoy), [LinkedIn](https://www.linkedin.com/in/siusko/)
+- Research track: [Mykola Siusko](https://github.com/Msiusko), [Pineapple Proxy](https://pnproxy.org), [PG](https://github.com/EclecticSamurai)
+- Product:[Coinmandeer](https://github.com/coinmandeer), [Tree](https://github.com/burningtree), [Cryptomar1o](https://github.com/cryptomar1o)
 
 
 # ⍚ Privacy Checker Tool
