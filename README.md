@@ -8,7 +8,7 @@ In our dedication to enhancing privacy and security in the Web3 ecosystem, we sh
 - ⌬ [Privacy Annual Report 2023](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-annual-report-2023)
 - ✵ [Privacy Beat](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat)
 - ⍚ [Privacy Checker Tool](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-checker-tool)
-- ⛲︎ [Production of interviews and documentaries](https://github.com/web3privacy/grants/blob/main/README.md#%EF%B8%8E-production-of-interviews-and-documentaries)
+  
 - ⎆ [Privacy Guides](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-guides)
 - ⎆ [Hacker Manuals & Privacy Guidelines](https://github.com/web3privacy/grants/blob/main/README.md#-hacker-manuals--privacy-guidelines)
 - [NO-GRANTS PROJECTS](https://github.com/web3privacy/grants/blob/main/README.md#-cultivating--maintaining-the-biggest-privacy-centric-database)
@@ -104,27 +104,6 @@ The tool doesn't just cater to the needs of the seasoned blockchain enthusiasts 
 
 
 ### Readiness: 30%
-
-
-# ⛲︎ Production of interviews and documentaries
-Privacy as a human right could protect humans from government surveillance, redefine corporate-personal relations, and significantly reduce surveillance capitalism. In other words, accelerate decentralization on both practical and philosophical levels. Moreover, it will lead to thousands of saved human lives in non-democratic countries.
-
-Pursuing our mission to **make decentralized privacy known and accessible to billions of people** we will realize a series of interviews and documentaries with a professional film crew. 
-
-> "Most information is produced by platforms and media that seemingly have no values or code of ethics. They do not care about freedom or decentralization. They do not verify their sources, they support dubious projects, they do not mind cooperating with centralized exchanges and projects, and they are often advocates of regulation."
-
-> "Unprincipled commerce or blunt collectivism is thus the main thing that today's person interested in cryptocurrencies will encounter. The former creates chaos and the latter creates an unhealthy cults."
-
-> "Our goal is to create a counter-culture against these two approaches. We want to create an information resource, chain-agnostic cult and community based not on one cryptocurrency or ecosystem but on the promotion of basic values such as freedom, openness, decentralization, neutrality or privacy." / from NYKNYC [whitepaper](https://github.com/nyknycmag/whitepaper).
-
-
-### Key Deliverables:
-- interview 10 key players in the privacy ecosystem / 1 Documentary
-- create dedicated brand, media and channels
-- 
-
-### Timing:
-- 6 to 8 months
 
 
 # ⎆ Privacy guides:
