@@ -146,10 +146,8 @@ NO-GRANTS PROJECTS you can help us with:
 
 # ✻ Cultivating & Maintaining the biggest [privacy-centric Database](https://web3privacy.info/)
 
-### Organizations -> [Update your data](https://github.com/web3privacy/web3privacy/blob/main/README.md) with pull requests
-
-### General Contributors & User Feedbacks -> Join - [Signal](https://signal.group/#CjQKIH-1ZYEGp50OBvbJRbITIRxDzjH2pSxl7vdkVZs9g5vgEhDAKUlgYdpxpCpTkNVxow4X) 
-DM on [X](https://twitter.com/web3privacy)
+- Organizations -> [Update your data](https://github.com/web3privacy/web3privacy/blob/main/README.md) with pull requests
+- General Contributors & User Feedbacks -> [Signal](https://signal.group/#CjQKIH-1ZYEGp50OBvbJRbITIRxDzjH2pSxl7vdkVZs9g5vgEhDAKUlgYdpxpCpTkNVxow4X) / DM us on [X](https://twitter.com/web3privacy)
 
 Enjoy everything!
 
