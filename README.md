@@ -151,7 +151,7 @@ Practical guides will match:
 
 NO-GRANTS PROJECTS you can help us with:
 
-# Cultivating & Maintaining the biggest [privacy-centric Database](https://web3privacy.info/)
+# ✻ Cultivating & Maintaining the biggest [privacy-centric Database](https://web3privacy.info/)
 
 Organizations -> Update your data with pull requests
 
