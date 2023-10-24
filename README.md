@@ -133,11 +133,12 @@ Practical guides will match:
 ⌘ Other no-grant Projects you can help us with:
 
 # ✻ Cultivating & Maintaining [DB](https://web3privacy.info/)
-Web3Privacy Now is a research project aimed at building a culture of privacy industry in web3: the most extensive database of privacy-enhancing solutions, the framework for PEDApps ideation, use-cases database & many more. Feel free to collaborate.
+Web3Privacy Now is a research project aimed at building a culture of privacy industry in web3: the most extensive (+500 Services) database of privacy-enhancing solutions, the framework for PEDApps ideation, use-cases & many more. Feel free to improve it!
 
-**Organizations** -> [Update your data](https://github.com/web3privacy/web3privacy/blob/main/README.md) with pull requests
+### Organizations:
+[Update your data](https://github.com/web3privacy/web3privacy/blob/main/README.md) with pull requests
 
-**General Contributors & User Feedbacks**:
+### General Contributors & User Feedbacks:
 - Follow / DM us: [Twitter](http://twitter.com/web3privacy) | [Bluesky](https://staging.bsky.app/profile/web3privacy.info)
 - Join our community: [Forum](https://forum.web3privacy.info/) | [Signal](https://signal.group/#CjQKIH-1ZYEGp50OBvbJRbITIRxDzjH2pSxl7vdkVZs9g5vgEhDAKUlgYdpxpCpTkNVxow4X)
 - Attend our events: [lu.ma](https://lu.ma/web3privacy)
