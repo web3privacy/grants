@@ -19,9 +19,9 @@ In our dedication to enhancing privacy and security in the Web3 ecosystem, we sh
 
 For more information about our [Ecosystem](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/_ykJ2VOcRrH720OZTy0tT1kjrgP5kdc0Vykb0VVle0w) please visit the About page on our website.
 
-# Our Work in Practice
+## Our Work in Practice
 
-## Delivered
+### Delivered
 - The biggest privacy-centric [database](https://github.com/web3privacy/web3privacy) with 500+ projects and services delivering web3-privacy
 - [Pagency framework](https://github.com/web3privacy/web3privacy/tree/main/Pagency) for privacy-ideas generation for builders
 - 130-pages long market and diversity [report](https://medium.com/@Svyazniy/privacy-market-outlook-in-web3-report-35a96c35b6ae)
@@ -29,7 +29,7 @@ For more information about our [Ecosystem](https://mirror.xyz/0x0f1F3DAf416B74DB
 - Privacy market [map](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Web3privacy%20landscape%20(jan%202023).jpg)
 - Zcash grant on privacy use-case [research](https://github.com/web3privacy/Grants/blob/main/w3p-01.md) within the Ukrainian-Russian war
 
-## Delivering
+### Delivering
 - [Privacy Beat](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat) - Ranking system of all privacy-related projects in the Web3
 - [Privacy Checker Tool](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-checker-tool)
 - Updating [general database](https://github.com/web3privacy/web3privacy/blob/main/README.md) with the market stats for future research: % of the token projects, % of the anon/public teams, product liveliness, privacy delivery (year-to-year comparison), ecosystem-to-ecosystem comparison
