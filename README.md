@@ -146,7 +146,7 @@ Practical guides will match:
 - Product:[Coinmandeer](https://github.com/coinmandeer), [Tree](https://github.com/burningtree)
 
 # ⚛︎ Web3privacy Now Platform:
-"One ring to bring them all". The Platform will collect and interconnect all the previous projects and tools to make privacy accessible, understandable and actionable by a broad audience.
+"One ring to bring them all" -> The Platform will collect and interconnect all the previous projects and tools to make privacy accessible, understandable and actionable by a broad audience.
 
 This project is currently supported by Ethereum Foundation.
 
@@ -159,9 +159,9 @@ This project is currently supported by Ethereum Foundation.
 - GitHub publishing: 30 days
 
 ### Deliverables:
-
 1. Objective | create a privacy assessment playbook for non-techies.
 
+Timing: 21 days
 Tasks:
 - Analyse non-techies assessment (raw data behind 56 privacy projects) from the field [interview](https://docs.google.com/spreadsheets/d/1JWpAsGL10UTsVeuIVbouzUxRjaSPUAamxcbFljXuUWE/ed it?usp=sharing)
 - A model potential framework by applying different filters (time on assessment, complexity, web3 literacy grades)
@@ -169,11 +169,10 @@ Tasks:
 - Update framework with interview data
 - Make an easy to understandable & actionable playbook (format: PDF) for non-techies (general overview, assessment framework for non-techies, assessment journey examples - 5 different projects) 
 
-Timing: 21 days
-
 
 2. Objective | create a privacy assessment playbook for techies.
 
+Timing: 30 days
 Tasks:
 - Receive 50 builders’ feedback (from juniors to CTOs) on a techies professional levelling [assumption](https://docs.google.com/spreadsheets/d/1JWpAsGL10UTsVeuIVbouzUxRjaSPUAamxcbFljXuUWE/ed it?usp=sharing)
 - Expand the technical proficiency model & apply it to initial [feedback](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/Scoringmodel.md) from privacy professionals
@@ -182,11 +181,10 @@ Tasks:
 - Setup & launch the Discourse forum (share invites to the privacy professionals for collaboration)
 - Collect & review feedback publicly via the forum (validate model with the broader community)
 - Update both models (for non-techies & techies) + perform 1on1s via ETH Zurich & ETH Dam 
-
-Timing: 30 days
   
 3. Objective | Non-techies & techies models website deployment & community building
 
+Timing: 30 days
 Tasks:
 - Updating both models into explicit guides (wiki-based)
 - Visualisation of the user flows (examples & case studies)
@@ -197,8 +195,6 @@ Tasks:
 - CMS
 - QA
 - GitHub publishing
-
-Timing: 30 days
 
 ### Team
 - Project Manager: Mykola Siusko [GitHub](https://github.com/Msiusko), [Twitter](https://twitter.com/nicksvyaznoy), [LinkedIn](https://www.linkedin.com/in/siusko/)
