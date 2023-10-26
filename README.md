@@ -15,7 +15,7 @@ In our dedication to enhancing privacy and security in the Web3 ecosystem, we sh
 
 ⎆ [Hacker Manuals & Privacy Guidelines](https://github.com/web3privacy/grants/blob/main/README.md#-hacker-manuals--privacy-guidelines)
 
-⚛︎ Web3privacy Now Platform
+⚛︎ [Web3privacy Now Platform](https://github.com/web3privacy/grants/blob/main/README.md#%EF%B8%8E-web3privacy-now-platform)
 
 > _We are looking for partners, not advertisers._
 
@@ -35,11 +35,12 @@ For more information about our [Ecosystem](https://mirror.xyz/0x0f1F3DAf416B74DB
 - [Privacy Beat](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat) - Ranking system of all privacy-related projects in the Web3
 - [Privacy Checker Tool](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-checker-tool)
 - Updating [general database](https://github.com/web3privacy/web3privacy/blob/main/README.md) with the market stats for future research: % of the token projects, % of the anon/public teams, product liveliness, privacy delivery (year-to-year comparison), ecosystem-to-ecosystem comparison
+- Web3Privacy Now Platform
 
 
 # ⌬ Privacy Annual Report 2023
 
-Following our [Privacy Market Overview](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Privacy%20market%20outlook%20in%20Web3%20by%20Mykola%20Siusko%20(Jan%202023).pdf)(Jan 2023) we intend to produce an Annual Report to showcase privacy's state of the art. 
+Following our [Privacy Market Overview](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Privacy%20market%20outlook%20in%20Web3%20by%20Mykola%20Siusko%20(Jan%202023).pdf) (Jan 2023) we intend to produce an Annual Report to showcase privacy's state of the art. 
 
 The idea consist into structure the overall picture of the web3-privacy market exploring hundreds of independent companies and their connections with the potential for unity and collaboration. 
 
