@@ -21,7 +21,7 @@ In our dedication to enhancing privacy and security in the Web3 ecosystem, we sh
 
 For more information about our [Ecosystem](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/_ykJ2VOcRrH720OZTy0tT1kjrgP5kdc0Vykb0VVle0w) please visit the About page on our website.
 
-## Our Work in Practice
+# Our Work
 
 ### Delivered
 - The biggest privacy-centric [database](https://github.com/web3privacy/web3privacy) with 500+ projects and services delivering web3-privacy
