@@ -75,15 +75,15 @@ That's why a ranking system of all privacy-related projects in the Web3 could he
 - Platform: 75%
 - Scoring Mechanism: 20%
 
-### Deliverables:
-- scoring model v 1.0 + expert validation
+### Deliverables & Timings:
+- scoring model v 1.0 (end of 2023) + expert validation
+- scoring model v 2.0 (3 to 5 months)
 - basic functionality mapping (incl. UX/UI research), copywriting, basic brand design system, scoring model applicability to all existing privacy-preserving web3 projects (300+ projects).
 
-### Timings
-- MVP > 3 months
-- Scoring modeling: 2 months
-- Product management (UX, copy, scoring aplicability, design): 1 month
-- Web-development + testing: 1 month
+### Budget
+- Platform v2.0: 20k
+- Maintainance: 
+
 
 ### Team
 - Core project manager > Mykola Siusko [GitHub](https://github.com/Msiusko), [Twitter](https://twitter.com/nicksvyaznoy), [LinkedIn](https://www.linkedin.com/in/siusko/)
