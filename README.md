@@ -54,12 +54,16 @@ Instead of competing over who has the superior feature, protocol, or blockchain,
 - [Mykola Siusko](https://github.com/Msiusko)
 - [PG](https://github.com/EclecticSamurai)
 
-# ✵ Privacy Beat
-## Ranking system of all privacy-related projects in the Web3
+### Deliverables:
+- 100+ pages PDF with visuals and metrics
+
+### Timings
+- 1st draft on mid Dec
+- Final Version on 10 Jan
+
+# ✵ Privacy Beat - ranking system of all privacy-related projects in the Web3
 
 ### Project Overview
-<img width="1129" alt="Screenshot 2023-01-28 at 16 26 46" src="https://github.com/web3privacy/grants/assets/101947219/8c0aeabe-8ab4-4ef4-b1aa-0c8390318418">
-
 In the digital age, privacy is not just a priority but a fundamental human right. Motivated by this belief, we are pioneering a platform that empowers the general public to discern the privacy levels of various Web3 services.
 
 Our approach includes the development of an innovative scoring system, incorporating both expert analysis and community input, to offer impartial resources for evaluating projects. This initiative is designed to assist users in making informed decisions about the services they choose to trust. 
@@ -68,6 +72,7 @@ Our approach includes the development of an innovative scoring system, incorpora
 
 ### Ecosystem fit / Why this is important now
 Despite the foundational role that privacy is meant to play in shaping Web3, genuinely impactful initiatives remain scarce. Many projects leverage the concept of privacy as a buzzword or for public relations advantage, rather than addressing tangible issues or enacting substantial changes at the infrastructural and transactional level. 
+<img width="1129" alt="Screenshot 2023-01-28 at 16 26 46" src="https://github.com/web3privacy/grants/assets/101947219/8c0aeabe-8ab4-4ef4-b1aa-0c8390318418">
 
 ### Readiness
 - Data: 70%
