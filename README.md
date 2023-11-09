@@ -44,11 +44,7 @@ For more information about our [Ecosystem](https://mirror.xyz/0x0f1F3DAf416B74DB
 Following our [Privacy Market Overview](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Privacy%20market%20outlook%20in%20Web3%20by%20Mykola%20Siusko%20(Jan%202023).pdf) (Jan 2023) we intend to produce a comprehensive report to showcase all happenings and achievements of the year. This will consist in structuring the overall picture of the web3-privacy market and exploring hundreds of independent companies - and their connections - with the potential for unity and collaboration. 
 
 ### Ecosystem fit / Why is it important now? 
-Navigating the complex and delicate realm of privacy is increasingly challenging, particularly due to a notable lack of meaningful conversation on the subject. Too often, discussions about privacy are superficial, failing to delve into its complexities. However, there's a glimmer of change as specialized events and dialogues are beginning to take root, aiming to provide a comprehensive examination of privacy concerns.
-
-In the midst of this, market centralization by regulators is a reality, while surveillance by various entities adds another layer of complexity. Between exchanges and wallets presenting the illusion of choice through optional KYC policies, and analytics firms utilizing your data without consent, the urgency for privacy advocacy becomes evident. Incidents like the regulatory response to private cryptocurrencies and the actions taken against Tornado Cash are stark reminders of the stakes involved.
-
-Instead of competing over who has the superior feature, protocol, or blockchain, it’s time to unite. Let's collaborate to forge a web that respects privacy and serves us all, collectively.
+Navigating the complex and delicate realm of privacy is very challenging. Although the focus has recently been put back on this foundamental issue, there is a lack of comprehensive overview and there is still little collaboration in this regard. With regulators centralizing the market and surveillance on the rise, the need for privacy champions is clear, especially with actions against private crypto and platforms like Tornado Cash highlighting the risks. Rather than vying for the top tech and perk, we should work together to create a web that prioritizes our collective privacy.
 
 ### Team
 - [Mykola Siusko](https://github.com/Msiusko)
