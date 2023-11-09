@@ -40,16 +40,15 @@ For more information about our [Ecosystem](https://mirror.xyz/0x0f1F3DAf416B74DB
 
 # ⌬ Privacy Annual Report 2023
 
-Following our [Privacy Market Overview](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Privacy%20market%20outlook%20in%20Web3%20by%20Mykola%20Siusko%20(Jan%202023).pdf) (Jan 2023) we intend to produce an Annual Report to showcase privacy's state of the art. 
+### Project Overview 
+Following our [Privacy Market Overview](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Privacy%20market%20outlook%20in%20Web3%20by%20Mykola%20Siusko%20(Jan%202023).pdf) (Jan 2023) we intend to produce a comprehensive report to showcase all happenings and achievements of the year. This will consist in structuring the overall picture of the web3-privacy market and exploring hundreds of independent companies - and their connections - with the potential for unity and collaboration. 
 
-The idea consist into structure the overall picture of the web3-privacy market exploring hundreds of independent companies and their connections with the potential for unity and collaboration. 
+### Ecosystem fit / Why is it important now? 
+Navigating the complex and delicate realm of privacy is increasingly challenging, particularly due to a notable lack of meaningful conversation on the subject. Too often, discussions about privacy are superficial, failing to delve into its complexities. However, there's a glimmer of change as specialized events and dialogues are beginning to take root, aiming to provide a comprehensive examination of privacy concerns.
 
-### Why is it important now? 
-Regulators actively centralise the market. Moreover, while multiple agents are watching you, exchanges and wallets give you a sense of freedom of choice ("to KYC or not to KYC"). Analytics companies own & use your data without permission. Leaked news about the regulation of private cryptocurrencies and the Tornado Cash sanctions are a clear examples of why privacy needs advocacy. 
+In the midst of this, market centralization by regulators is a reality, while surveillance by various entities adds another layer of complexity. Between exchanges and wallets presenting the illusion of choice through optional KYC policies, and analytics firms utilizing your data without consent, the urgency for privacy advocacy becomes evident. Incidents like the regulatory response to private cryptocurrencies and the actions taken against Tornado Cash are stark reminders of the stakes involved.
 
-![canvas](https://github.com/web3privacy/grants/assets/101947219/fdf9d64a-306a-4340-96e1-c0942d7aa891)
-
-Let's stop fighing each other for the best feature, protocol or chain and find common ground to build a better web. Together.
+Instead of competing over who has the superior feature, protocol, or blockchain, it’s time to unite. Let's collaborate to forge a web that respects privacy and serves us all, collectively.
 
 ### Team
 - [Mykola Siusko](https://github.com/Msiusko)
@@ -58,28 +57,32 @@ Let's stop fighing each other for the best feature, protocol or chain and find c
 # ✵ Privacy Beat
 ## Ranking system of all privacy-related projects in the Web3
 
+### Project Overview
 <img width="1129" alt="Screenshot 2023-01-28 at 16 26 46" src="https://github.com/web3privacy/grants/assets/101947219/8c0aeabe-8ab4-4ef4-b1aa-0c8390318418">
 
-Privacy is a top priority in the era of web, an essential human right. Drived by this we are creating a platform to help the general public understand whether a web3-service is private or not. 
+In the digital age, privacy is not just a priority but a fundamental human right. Motivated by this belief, we are pioneering a platform that empowers the general public to discern the privacy levels of various Web3 services.
 
-To do so we are developing a unique scoring mechanism (both professional & communal) to provide unbiased tools for assessing projects & helping users.  
-
-### Readiness
-- Data: 90%
-- Platform: 75%
-- Scoring Mechanism: 45%
+Our approach includes the development of an innovative scoring system, incorporating both expert analysis and community input, to offer impartial resources for evaluating projects. This initiative is designed to assist users in making informed decisions about the services they choose to trust. 
 
 - [Live Demo](https://taikai.network/ethrome/hackathons/ethrome-23/projects/clng508ts00lswu01030hpfuq/idea)
 
-### Timings
-- MVP > 3 months
-- Scoring modeling: 3 weeks+
-- Product management (UX, copy, scoring aplicability, design): 1 month
-- Web-development + testing: 1 month
+### Ecosystem fit / Why this is important now
+Despite the foundational role that privacy is meant to play in shaping Web3, genuinely impactful initiatives remain scarce. Many projects leverage the concept of privacy as a buzzword or for public relations advantage, rather than addressing tangible issues or enacting substantial changes at the infrastructural and transactional level. 
+
+### Readiness
+- Data: 70%
+- Platform: 75%
+- Scoring Mechanism: 20%
 
 ### Deliverables:
 - scoring model v 1.0 + expert validation
 - basic functionality mapping (incl. UX/UI research), copywriting, basic brand design system, scoring model applicability to all existing privacy-preserving web3 projects (300+ projects).
+
+### Timings
+- MVP > 3 months
+- Scoring modeling: 2 months
+- Product management (UX, copy, scoring aplicability, design): 1 month
+- Web-development + testing: 1 month
 
 ### Team
 - Core project manager > Mykola Siusko [GitHub](https://github.com/Msiusko), [Twitter](https://twitter.com/nicksvyaznoy), [LinkedIn](https://www.linkedin.com/in/siusko/)
@@ -88,10 +91,8 @@ To do so we are developing a unique scoring mechanism (both professional & commu
 
 ![Screenshot 2023-01-27 at 11 48 45](https://github.com/web3privacy/grants/assets/101947219/61c00f05-369c-4990-a5db-651365208c99)
 
-## Scoring Mechanism: 
-We are working on a unique privacy scoring mechanism & create a tool with the help of privacy experts from the Ethereum Foundation, Railgun, Waku, NYM and others while building on the experiene of active members from both solar and lunarpunk communities. 
-
-Professional scoring would be a joint R&D with the key web3 people from protocol architects to security specialists. This will help to create an unbiased take from scratch & enabling a transparent working process, accessible to everyone via a forum.
+## About Scoring Mechanism: 
+Professional scoring would be a joint R&D with the key web3 people from protocol architects to security specialists. We are collecting feedbacks from privacy experts from the Ethereum Foundation, Railgun, Waku, NYM... while building on the experience of active members from both solar and lunarpunk communities. This will help to create an unbiased take from scratch & enabling a transparent working process, accessible to everyone via a forum.
 
 In parallel to the top-down scorecard method, we'll develop and implement a bottom-up community scoring platform too (think of Metacritic exters + users scorings) -> at the end of the day it's the users who have to become the real watchdogs of the industry, signaling about flaws and shortcomings of solutions.
 
