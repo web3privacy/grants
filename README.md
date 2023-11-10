@@ -1,9 +1,9 @@
-# Web3Privacy Now - how you can help
+# Web3Privacy Now Fund Requests
 ![1500x500](https://github.com/web3privacy/grants/assets/101947219/2b2b6ba7-09ba-4b9b-a5e8-65610e3afc1b)
 
 
 # ⌭ Introduction
-In our dedication to enhancing privacy and security in the Web3 ecosystem, we showcase our projects and ideas seeking contributors and financial support to foster R&D on specific verticals:
+In our dedication to enhancing privacy and security in the Web3 ecosystem, we showcase our projects and ideas seeking financial support to foster R&D on specific verticals:
 
 ⌬ [Privacy Annual Report 2023](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-annual-report-2023)
 
