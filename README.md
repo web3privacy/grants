@@ -13,7 +13,7 @@ In our dedication to enhancing privacy and security in the Web3 ecosystem, we sh
   
 ⎆ [Privacy Guides](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-guides)
 
-⎆ [Hackathon Curation Pack]()
+⎆ [Hackathon Curation Pack](https://github.com/web3privacy/grants/blob/main/README.md#-hackathon-curation-pack)
 
 ⚛︎ [Web3privacy Now Platform](https://github.com/web3privacy/grants/blob/main/README.md#%EF%B8%8E-web3privacy-now-platform)
 
