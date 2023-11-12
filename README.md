@@ -13,7 +13,7 @@ In our dedication to enhancing privacy and security in the Web3 ecosystem, we sh
   
 ⎆ [Privacy Guides](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-guides)
 
-⎆ [Hacker Manuals & Privacy Guidelines](https://github.com/web3privacy/grants/blob/main/README.md#-hacker-manuals--privacy-guidelines)
+⎆ [Hackathon Curation Pack]()
 
 ⚛︎ [Web3privacy Now Platform](https://github.com/web3privacy/grants/blob/main/README.md#%EF%B8%8E-web3privacy-now-platform)
 
@@ -142,8 +142,8 @@ Practical guides will match:
 - R&D: [PG](https://github.com/EclecticSamurai)
 - Product:[Coinmandeer](https://github.com/coinmandeer), [Tree](https://github.com/burningtree)
 
-# ⎆ Hacker Manuals & Privacy Guidelines:
-### Hackathon curation 
+# ⎆ Hackathon Curation Pack:
+Hacker Manuals & Privacy Guidelines to help the builders to uderstand actual issues in the market.
 
 ### Team
 - Project Manager: Mykola Siusko [GitHub](https://github.com/Msiusko), [Twitter](https://twitter.com/nicksvyaznoy), [LinkedIn](https://www.linkedin.com/in/siusko/)
