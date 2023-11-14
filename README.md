@@ -43,24 +43,19 @@ For more information about our [Ecosystem](https://mirror.xyz/0x0f1F3DAf416B74DB
 ### Project Overview 
 Following our [Privacy Market Overview](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Privacy%20market%20outlook%20in%20Web3%20by%20Mykola%20Siusko%20(Jan%202023).pdf) (Jan 2023) we intend to produce a comprehensive report to showcase all happenings and achievements of the year. This will consist in structuring the overall picture of the web3-privacy market and exploring hundreds of independent companies - and their connections - with the potential for unity and collaboration. 
 
-### How you can help
-- sharing data and research
-- co-edit the report
-- donate: 
-
-### Ecosystem fit / Why is it important now? 
+### Ecosystem/Market fit - Why is it important now? 
 Navigating the complex and delicate realm of privacy is very challenging. Although the focus has recently been put back on this foundamental issue, there is a lack of comprehensive overview and there is still little collaboration in this regard. With regulators centralizing the market and surveillance on the rise, the need for privacy champions is clear, especially with actions against private crypto and platforms like Tornado Cash highlighting the risks. Rather than vying for the top tech and perk, we should work together to create a web that prioritizes our collective privacy.
 
 ### Team
 - [Mykola Siusko](https://github.com/Msiusko)
 - [PG](https://github.com/EclecticSamurai)
 
-### Deliverables:
-- 100+ pages PDF with visuals and metrics
+### Deliverables & Timings:
+- [20 Dec 2023] Draft of 100+ pages 
+- [10 Jan 2024] Final 100+ pages PDF with visuals and metrics
 
-### Timings
-- 1st draft on mid Dec
-- Final Version on 10 Jan
+### Budget
+- 5k
 
 # ✵ Privacy Beat 
 
@@ -69,7 +64,7 @@ In the digital age, privacy is not just a priority but a fundamental human right
 
 - [Live Demo](https://taikai.network/ethrome/hackathons/ethrome-23/projects/clng508ts00lswu01030hpfuq/idea)
 
-### Ecosystem fit / Why this is important now
+### Ecosystem/Market fit - Why this is important now
 Despite the foundational role that privacy is meant to play in shaping Web3, genuinely impactful initiatives remain scarce. Many projects leverage the concept of privacy as a buzzword or for public relations advantage, rather than addressing tangible issues or enacting substantial changes at the infrastructural and transactional level. 
 That's why a ranking system of all privacy-related projects in the Web3 could help a lot the users to discern.
 
@@ -81,14 +76,17 @@ That's why a ranking system of all privacy-related projects in the Web3 could he
 - Scoring Mechanism: 20%
 
 ### Deliverables & Timings:
-- scoring model v 1.0 (end of 2023) + expert validation
-- scoring model v 2.0 (3 to 5 months)
-- basic functionality mapping (incl. UX/UI research), copywriting, basic brand design system, scoring model applicability to all existing privacy-preserving web3 projects (300+ projects).
+- [31st Dec 2023] Scoring model v 1.0 + experts validation:
+functionality mapping (incl. UX/UI research), copywriting, basic brand design system, scoring model applicability to +150 privacy-preserving web3 projects
+
+- [3 to 5 months] Scoring model v 2.0 :
+advanced functionalities, scoring model applicability to +500 privacy-preserving web3 projects
+
 
 ### Budget
-- Platform v2.0: 20k
-- Maintainance: 
-
+- Platform v1.0: 10k
+- Platform v2.0: 8k
+- Maintainance: 15k
 
 ### Team
 - Core project manager > Mykola Siusko [GitHub](https://github.com/Msiusko), [Twitter](https://twitter.com/nicksvyaznoy), [LinkedIn](https://www.linkedin.com/in/siusko/)
@@ -120,10 +118,16 @@ In an era where online privacy and security have become paramount concerns, the 
 
 The tool doesn't just cater to the needs of the seasoned blockchain enthusiasts but extends its utility to those seeking more privacy-conscious transactions in an increasingly interconnected digital landscape. With "Privacy Checker," users are empowered to navigate the intricate web of privacy measures efficiently, ensuring their data and assets remain secure.
 
-### Deliverables: 
-- 
+### Deliverables & Timings: 
+- [30 Nov 2023] [Non-tech Playbook](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/90XEXa7AG_qc-VgYKs40i88xB1HF97gr1zqb-qvnif0) release
+- [5 Jan 2024] Tech Playbook release
+- [Feb 2024] Scoring Model v1.0
+- [May 2024] Scoring Model v2.0
 
-### Readiness: 30%
+### Budget
+- Tech Playbook: 8k
+- Scoring Model v1.0: 15k
+- Scoring Model v2.0: 25k
 
 ### Team
 - Project Managers > Mykola Siusko [GitHub](https://github.com/Msiusko), [Twitter](https://twitter.com/nicksvyaznoy), [LinkedIn](https://www.linkedin.com/in/siusko/) | [PG](https://github.com/EclecticSamurai)
