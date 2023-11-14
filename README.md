@@ -46,16 +46,16 @@ Following our [Privacy Market Overview](https://github.com/web3privacy/web3priva
 ### Ecosystem/Market fit - Why is it important now? 
 Navigating the complex and delicate realm of privacy is very challenging. Although the focus has recently been put back on this foundamental issue, there is a lack of comprehensive overview and there is still little collaboration in this regard. With regulators centralizing the market and surveillance on the rise, the need for privacy champions is clear, especially with actions against private crypto and platforms like Tornado Cash highlighting the risks. Rather than vying for the top tech and perk, we should work together to create a web that prioritizes our collective privacy.
 
-### Team
-- [Mykola Siusko](https://github.com/Msiusko)
-- [PG](https://github.com/EclecticSamurai)
-
 ### Deliverables & Timings:
 - [20 Dec 2023] Draft of 100+ pages 
 - [10 Jan 2024] Final 100+ pages PDF with visuals and metrics
 
 ### Budget
 - 5k
+
+### Team
+- [Mykola Siusko](https://github.com/Msiusko)
+- [PG](https://github.com/EclecticSamurai)
 
 # ✵ Privacy Beat 
 
