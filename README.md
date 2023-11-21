@@ -1,4 +1,4 @@
-# Web3Privacy Now Fund Requests
+# Web3Privacy Now Funding Requests
 ![1500x500](https://github.com/web3privacy/grants/assets/101947219/2b2b6ba7-09ba-4b9b-a5e8-65610e3afc1b)
 
 
@@ -23,13 +23,15 @@ For more information about our [Ecosystem](https://mirror.xyz/0x0f1F3DAf416B74DB
 
 # Our Work
 
-### Delivered
+### Delivered - Retroactive Grants
 - The biggest privacy-centric [database](https://github.com/web3privacy/web3privacy) with 500+ projects and services delivering web3-privacy
 - [Pagency framework](https://github.com/web3privacy/web3privacy/tree/main/Pagency) for privacy-ideas generation for builders
 - 130-pages long market and diversity [report](https://medium.com/@Svyazniy/privacy-market-outlook-in-web3-report-35a96c35b6ae)
 - ZK-centric privacy-services [database](https://github.com/web3privacy/web3privacy/tree/main/ZKprivacylandscape)
 - Privacy market [map](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Web3privacy%20landscape%20(jan%202023).jpg)
 - Zcash grant on privacy use-case [research](https://github.com/web3privacy/Grants/blob/main/w3p-01.md) within the Ukrainian-Russian war
+- Prague Summit, 5 May 2023
+- Rome Meetup "Community 1st - Rome Takeover", 5 Oct 2023
 
 ### Under Development
 - [Privacy Beat](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat) - Ranking system of all privacy-related projects in the Web3
