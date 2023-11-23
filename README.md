@@ -39,7 +39,7 @@ For more information about our [Ecosystem](https://mirror.xyz/0x0f1F3DAf416B74DB
 - Updating [general database](https://github.com/web3privacy/web3privacy/blob/main/README.md) with the market stats for future research: % of the token projects, % of the anon/public teams, product liveliness, privacy delivery (year-to-year comparison), ecosystem-to-ecosystem comparison
 - Web3Privacy Now Platform
 
-# ⚛︎ Web3privacy Now Platform:
+# ⚛︎ Web3privacy Now Platform
 "One ring to bring them all" -> The Platform will collect and interconnect all the previous projects and tools to make privacy accessible, understandable and actionable by a broad audience.
 
 This project is currently supported by Ethereum Foundation.
@@ -57,7 +57,7 @@ This project is currently supported by Ethereum Foundation.
 
 Timing: 21 days
 Tasks:
-- Analyse non-techies assessment (raw data behind 56 privacy projects) from the field [interview](https://docs.google.com/spreadsheets/d/1JWpAsGL10UTsVeuIVbouzUxRjaSPUAamxcbFljXuUWE/ed it?usp=sharing)
+- Analyse non-techies assessment (raw data behind 56 privacy projects) from the field [interview](https://docs.google.com/spreadsheets/d/1JWpAsGL10UTsVeuIVbouzUxRjaSPUAamxcbFljXuUWE/edit?usp=sharing)
 - A model potential framework by applying different filters (time on assessment, complexity, web3 literacy grades)
 - Create a framework for the assessment & test on non-techies (50 people from managers to designers, web3 & non-web3, different cultures, genders, markets)
 - Update framework with interview data
@@ -68,7 +68,7 @@ Tasks:
 
 Timing: 30 days
 Tasks:
-- Receive 50 builders’ feedback (from juniors to CTOs) on a techies professional levelling [assumption](https://docs.google.com/spreadsheets/d/1JWpAsGL10UTsVeuIVbouzUxRjaSPUAamxcbFljXuUWE/ed it?usp=sharing)
+- Receive 50 builders’ feedback (from juniors to CTOs) on a techies professional levelling [assumption](https://docs.google.com/spreadsheets/d/1JWpAsGL10UTsVeuIVbouzUxRjaSPUAamxcbFljXuUWE/edit?usp=sharing)
 - Expand the technical proficiency model & apply it to initial [feedback](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/Scoringmodel.md) from privacy professionals
 - Prototype framework for privacy assessment for techies (tested model, well-written research methodology, links to the initial research)
 - Upload the model on GitHub in a Docusaurus wiki
