@@ -39,25 +39,61 @@ For more information about our [Ecosystem](https://mirror.xyz/0x0f1F3DAf416B74DB
 - Updating [general database](https://github.com/web3privacy/web3privacy/blob/main/README.md) with the market stats for future research: % of the token projects, % of the anon/public teams, product liveliness, privacy delivery (year-to-year comparison), ecosystem-to-ecosystem comparison
 - Web3Privacy Now Platform
 
+# ⚛︎ Web3privacy Now Platform:
+"One ring to bring them all" -> The Platform will collect and interconnect all the previous projects and tools to make privacy accessible, understandable and actionable by a broad audience.
 
-# ⌬ Privacy Annual Report 2023
+This project is currently supported by Ethereum Foundation.
 
-### Project Overview 
-Following our [Privacy Market Overview](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Privacy%20market%20outlook%20in%20Web3%20by%20Mykola%20Siusko%20(Jan%202023).pdf) (Jan 2023) we intend to produce a comprehensive report to showcase all happenings and achievements of the year. This will consist in structuring the overall picture of the web3-privacy market and exploring hundreds of independent companies - and their connections - with the potential for unity and collaboration. 
+### Readiness:
+- Data & Research: 90%
+- Privacy Beat: 65%
+- Privacy Guides: 20%
 
-### Ecosystem/Market fit - Why is it important now? 
-Navigating the complex and delicate realm of privacy is very challenging. Although the focus has recently been put back on this foundamental issue, there is a lack of comprehensive overview and there is still little collaboration in this regard. With regulators centralizing the market and surveillance on the rise, the need for privacy champions is clear, especially with actions against private crypto and platforms like Tornado Cash highlighting the risks. Rather than vying for the top tech and perk, we should work together to create a web that prioritizes our collective privacy.
+### Timings:
+- GitHub publishing: 30 days
 
-### Deliverables & Timings:
-- [20 Dec 2023] Draft of 100+ pages 
-- [10 Jan 2024] Final 100+ pages PDF with visuals and metrics
+### Deliverables:
+1. Objective | create a privacy assessment playbook for non-techies.
 
-### Budget
-- 5k
+Timing: 21 days
+Tasks:
+- Analyse non-techies assessment (raw data behind 56 privacy projects) from the field [interview](https://docs.google.com/spreadsheets/d/1JWpAsGL10UTsVeuIVbouzUxRjaSPUAamxcbFljXuUWE/ed it?usp=sharing)
+- A model potential framework by applying different filters (time on assessment, complexity, web3 literacy grades)
+- Create a framework for the assessment & test on non-techies (50 people from managers to designers, web3 & non-web3, different cultures, genders, markets)
+- Update framework with interview data
+- Make an easy to understandable & actionable playbook (format: PDF) for non-techies (general overview, assessment framework for non-techies, assessment journey examples - 5 different projects) 
+
+
+2. Objective | create a privacy assessment playbook for techies.
+
+Timing: 30 days
+Tasks:
+- Receive 50 builders’ feedback (from juniors to CTOs) on a techies professional levelling [assumption](https://docs.google.com/spreadsheets/d/1JWpAsGL10UTsVeuIVbouzUxRjaSPUAamxcbFljXuUWE/ed it?usp=sharing)
+- Expand the technical proficiency model & apply it to initial [feedback](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/Scoringmodel.md) from privacy professionals
+- Prototype framework for privacy assessment for techies (tested model, well-written research methodology, links to the initial research)
+- Upload the model on GitHub in a Docusaurus wiki
+- Setup & launch the Discourse forum (share invites to the privacy professionals for collaboration)
+- Collect & review feedback publicly via the forum (validate model with the broader community)
+- Update both models (for non-techies & techies) + perform 1on1s via ETH Zurich & ETH Dam 
+  
+3. Objective | Non-techies & techies models website deployment & community building
+
+Timing: 30 days
+Tasks:
+- Updating both models into explicit guides (wiki-based)
+- Visualisation of the user flows (examples & case studies)
+- Privacy project assessment card prototyping (for forum discussion, communal feedback, update & publishing as a benchmarks)
+- design + basic branding
+- copywriting
+- DB sync
+- CMS
+- QA
+- GitHub publishing
 
 ### Team
-- [Mykola Siusko](https://github.com/Msiusko)
-- [PG](https://github.com/EclecticSamurai)
+- Project Manager: Mykola Siusko [GitHub](https://github.com/Msiusko), [Twitter](https://twitter.com/nicksvyaznoy), [LinkedIn](https://www.linkedin.com/in/siusko/)
+- R&D: [PG](https://github.com/EclecticSamurai)
+- Product:[Coinmandeer](https://github.com/coinmandeer), [Tree](https://github.com/burningtree)
 
 # ✵ Privacy Beat 
 
@@ -156,61 +192,24 @@ Hacker Manuals & Privacy Guidelines to help the builders to uderstand actual iss
 - R&D: [PG](https://github.com/EclecticSamurai)
 - Product:[Coinmandeer](https://github.com/coinmandeer), [Tree](https://github.com/burningtree)
 
-# ⚛︎ Web3privacy Now Platform:
-"One ring to bring them all" -> The Platform will collect and interconnect all the previous projects and tools to make privacy accessible, understandable and actionable by a broad audience.
+# ⌬ Privacy Annual Report 2023
 
-This project is currently supported by Ethereum Foundation.
+### Project Overview 
+Following our [Privacy Market Overview](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Privacy%20market%20outlook%20in%20Web3%20by%20Mykola%20Siusko%20(Jan%202023).pdf) (Jan 2023) we intend to produce a comprehensive report to showcase all happenings and achievements of the year. This will consist in structuring the overall picture of the web3-privacy market and exploring hundreds of independent companies - and their connections - with the potential for unity and collaboration. 
 
-### Readiness:
-- Data & Research: 90%
-- Privacy Beat: 65%
-- Privacy Guides: 20%
+### Ecosystem/Market fit - Why is it important now? 
+Navigating the complex and delicate realm of privacy is very challenging. Although the focus has recently been put back on this foundamental issue, there is a lack of comprehensive overview and there is still little collaboration in this regard. With regulators centralizing the market and surveillance on the rise, the need for privacy champions is clear, especially with actions against private crypto and platforms like Tornado Cash highlighting the risks. Rather than vying for the top tech and perk, we should work together to create a web that prioritizes our collective privacy.
 
-### Timings:
-- GitHub publishing: 30 days
+### Deliverables & Timings:
+- [20 Dec 2023] Draft of 100+ pages 
+- [10 Jan 2024] Final 100+ pages PDF with visuals and metrics
 
-### Deliverables:
-1. Objective | create a privacy assessment playbook for non-techies.
-
-Timing: 21 days
-Tasks:
-- Analyse non-techies assessment (raw data behind 56 privacy projects) from the field [interview](https://docs.google.com/spreadsheets/d/1JWpAsGL10UTsVeuIVbouzUxRjaSPUAamxcbFljXuUWE/ed it?usp=sharing)
-- A model potential framework by applying different filters (time on assessment, complexity, web3 literacy grades)
-- Create a framework for the assessment & test on non-techies (50 people from managers to designers, web3 & non-web3, different cultures, genders, markets)
-- Update framework with interview data
-- Make an easy to understandable & actionable playbook (format: PDF) for non-techies (general overview, assessment framework for non-techies, assessment journey examples - 5 different projects) 
-
-
-2. Objective | create a privacy assessment playbook for techies.
-
-Timing: 30 days
-Tasks:
-- Receive 50 builders’ feedback (from juniors to CTOs) on a techies professional levelling [assumption](https://docs.google.com/spreadsheets/d/1JWpAsGL10UTsVeuIVbouzUxRjaSPUAamxcbFljXuUWE/ed it?usp=sharing)
-- Expand the technical proficiency model & apply it to initial [feedback](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/Scoringmodel.md) from privacy professionals
-- Prototype framework for privacy assessment for techies (tested model, well-written research methodology, links to the initial research)
-- Upload the model on GitHub in a Docusaurus wiki
-- Setup & launch the Discourse forum (share invites to the privacy professionals for collaboration)
-- Collect & review feedback publicly via the forum (validate model with the broader community)
-- Update both models (for non-techies & techies) + perform 1on1s via ETH Zurich & ETH Dam 
-  
-3. Objective | Non-techies & techies models website deployment & community building
-
-Timing: 30 days
-Tasks:
-- Updating both models into explicit guides (wiki-based)
-- Visualisation of the user flows (examples & case studies)
-- Privacy project assessment card prototyping (for forum discussion, communal feedback, update & publishing as a benchmarks)
-- design + basic branding
-- copywriting
-- DB sync
-- CMS
-- QA
-- GitHub publishing
+### Budget
+- 5k
 
 ### Team
-- Project Manager: Mykola Siusko [GitHub](https://github.com/Msiusko), [Twitter](https://twitter.com/nicksvyaznoy), [LinkedIn](https://www.linkedin.com/in/siusko/)
-- R&D: [PG](https://github.com/EclecticSamurai)
-- Product:[Coinmandeer](https://github.com/coinmandeer), [Tree](https://github.com/burningtree)
+- [Mykola Siusko](https://github.com/Msiusko)
+- [PG](https://github.com/EclecticSamurai)
 
 
 ![Group 3692(2)](https://github.com/web3privacy/grants/assets/101947219/b2db8370-c363-4eda-a132-419891c82455)
