@@ -5,17 +5,17 @@
 # ⌭ Introduction
 In our dedication to enhancing privacy and security in the Web3 ecosystem, we showcase our projects and ideas seeking financial support to foster R&D on specific verticals:
 
-⌬ [Privacy Annual Report 2023](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-annual-report-2023)
+⚛︎ [Web3privacy Now Platform](https://github.com/web3privacy/grants/blob/main/README.md#%EF%B8%8E-web3privacy-now-platform) 
 
 ✵ [Privacy Beat](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat)
+
+⌬ [Privacy Annual Report 2023](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-annual-report-2023)
 
 ⍚ [Privacy Checker Tool](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-checker-tool)
   
 ⎆ [Privacy Guides](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-guides)
 
 ⎆ [Hackathon Curation Pack](https://github.com/web3privacy/grants/blob/main/README.md#-hackathon-curation-pack)
-
-⚛︎ [Web3privacy Now Platform](https://github.com/web3privacy/grants/blob/main/README.md#%EF%B8%8E-web3privacy-now-platform)
 
 > _We are looking for partners, not advertisers._
 
