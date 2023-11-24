@@ -60,6 +60,7 @@ This project is currently supported by Ethereum Foundation.
 ### 1. Objective | create a privacy assessment playbook for non-techies.
 
 Timing: 21 days
+
 Tasks:
 - Analyse non-techies assessment (raw data behind 56 privacy projects) from the field [interview](https://docs.google.com/spreadsheets/d/1JWpAsGL10UTsVeuIVbouzUxRjaSPUAamxcbFljXuUWE/edit?usp=sharing)
 - A model potential framework by applying different filters (time on assessment, complexity, web3 literacy grades)
@@ -71,6 +72,7 @@ Tasks:
 ### 2. Objective | create a privacy assessment playbook for techies.
 
 Timing: 30 days
+
 Tasks:
 - Receive 50 builders’ feedback (from juniors to CTOs) on a techies professional levelling [assumption](https://docs.google.com/spreadsheets/d/1JWpAsGL10UTsVeuIVbouzUxRjaSPUAamxcbFljXuUWE/edit?usp=sharing)
 - Expand the technical proficiency model & apply it to initial [feedback](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/Scoringmodel.md) from privacy professionals
@@ -83,6 +85,7 @@ Tasks:
 ### 3. Objective | Non-techies & techies models website deployment & community building
 
 Timing: 30 days
+
 Tasks:
 - Updating both models into explicit guides (wiki-based)
 - Visualisation of the user flows (examples & case studies)
