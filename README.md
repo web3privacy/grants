@@ -55,9 +55,9 @@ This project is currently supported by Ethereum Foundation.
 ## Timings:
 - GitHub publishing: 30 days
 
-### Deliverables:
+## Deliverables:
 
-###1. Objective | create a privacy assessment playbook for non-techies.
+### 1. Objective | create a privacy assessment playbook for non-techies.
 
 Timing: 21 days
 Tasks:
@@ -68,7 +68,7 @@ Tasks:
 - Make an easy to understandable & actionable playbook (format: PDF) for non-techies (general overview, assessment framework for non-techies, assessment journey examples - 5 different projects) 
 
 
-###2. Objective | create a privacy assessment playbook for techies.
+### 2. Objective | create a privacy assessment playbook for techies.
 
 Timing: 30 days
 Tasks:
@@ -80,7 +80,7 @@ Tasks:
 - Collect & review feedback publicly via the forum (validate model with the broader community)
 - Update both models (for non-techies & techies) + perform 1on1s via ETH Zurich & ETH Dam 
   
-3. Objective | Non-techies & techies models website deployment & community building
+### 3. Objective | Non-techies & techies models website deployment & community building
 
 Timing: 30 days
 Tasks:
