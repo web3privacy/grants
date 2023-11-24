@@ -7,7 +7,7 @@ In our dedication to enhancing privacy and security in the Web3 ecosystem, we sh
 
 ⚛︎ [Web3privacy Now Platform](https://github.com/web3privacy/grants/blob/main/README.md#%EF%B8%8E-web3privacy-now-platform) 
 
-✵ [Privacy Beat](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat)
+✵ [PrivacyBeats](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat)
 
 ⌬ [Privacy Annual Report 2023](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-annual-report-2023)
 
@@ -30,30 +30,34 @@ For more information about our [Ecosystem](https://mirror.xyz/0x0f1F3DAf416B74DB
 - ZK-centric privacy-services [database](https://github.com/web3privacy/web3privacy/tree/main/ZKprivacylandscape)
 - Privacy market [map](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Web3privacy%20landscape%20(jan%202023).jpg)
 - Zcash grant on privacy use-case [research](https://github.com/web3privacy/Grants/blob/main/w3p-01.md) within the Ukrainian-Russian war
-- Prague Summit, 5 May 2023
-- Rome Meetup "Community 1st - Rome Takeover", 5 Oct 2023
+- [Summit]"Ecosystem Launch"(https://prague.web3privacy.info/), Prague, 5 May 2023,
+- Summit #2 "Community 1st - Rome Takeover", Rome, 5 Oct 2023
 
 ### Under Development
-- [Privacy Beat](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat) - Ranking system of all privacy-related projects in the Web3
+- [PrivacyBeats](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat) - Ranking system of all privacy-related projects in the Web3
 - [Privacy Checker Tool](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-checker-tool)
 - Updating [general database](https://github.com/web3privacy/web3privacy/blob/main/README.md) with the market stats for future research: % of the token projects, % of the anon/public teams, product liveliness, privacy delivery (year-to-year comparison), ecosystem-to-ecosystem comparison
 - Web3Privacy Now Platform
 
 # ⚛︎ Web3privacy Now Platform
-"One ring to bring them all" -> The Platform will collect and interconnect all the previous projects and tools to make privacy accessible, understandable and actionable by a broad audience.
+_"One ring to bring them all"_ → A comprehensive website to showcase our ecosystem to a wide audience, featuring an interactive and comprehensive collection of our activities and projects. 
+
+Its goal is to make the concept of privacy easily accessible, understandable, and actionable for everyone, fostering a deeper connection and engagement with our initiatives.
 
 This project is currently supported by Ethereum Foundation.
 
-### Readiness:
+## Readiness:
+- Website: 80%
 - Data & Research: 90%
 - Privacy Beat: 65%
 - Privacy Guides: 20%
 
-### Timings:
+## Timings:
 - GitHub publishing: 30 days
 
 ### Deliverables:
-1. Objective | create a privacy assessment playbook for non-techies.
+
+###1. Objective | create a privacy assessment playbook for non-techies.
 
 Timing: 21 days
 Tasks:
@@ -64,7 +68,7 @@ Tasks:
 - Make an easy to understandable & actionable playbook (format: PDF) for non-techies (general overview, assessment framework for non-techies, assessment journey examples - 5 different projects) 
 
 
-2. Objective | create a privacy assessment playbook for techies.
+###2. Objective | create a privacy assessment playbook for techies.
 
 Timing: 30 days
 Tasks:
@@ -95,18 +99,33 @@ Tasks:
 - R&D: [PG](https://github.com/EclecticSamurai)
 - Product:[Coinmandeer](https://github.com/coinmandeer), [Tree](https://github.com/burningtree)
 
-# ✵ Privacy Beat 
+# ✵ Privacy Beats 
 
 ### Project Overview
-In the digital age, privacy is not just a priority but a fundamental human right. Motivated by this belief, we are pioneering a platform that empowers the general public to discern the privacy levels of various Web3 services. Our approach includes the development of an innovative scoring system, incorporating both expert analysis and community input, to offer impartial resources for evaluating projects. This initiative is designed to assist users in making informed decisions about the services they choose to trust. 
+In the digital age, privacy is not just a priority but a fundamental human right. Motivated by this belief, we are pioneering a ranking system that empowers the general public to discern the privacy levels of various Web3 services. Our approach includes the development of an innovative scoring system, incorporating both expert analysis and community input, to offer impartial resources for evaluating projects. 
+
+The aim is to assist users in making informed decisions about the services they choose to trust. 
 
 - [Live Demo](https://taikai.network/ethrome/hackathons/ethrome-23/projects/clng508ts00lswu01030hpfuq/idea)
+
+### References:
+- [l2beat](www.l2beat.com)
+- [certik](www.certik.com)
+- [metacritic](https://www.metacritic.com/about-metascores)
+- [Clutch](https://clutch.co/methodology)
 
 ### Ecosystem/Market fit - Why this is important now
 Despite the foundational role that privacy is meant to play in shaping Web3, genuinely impactful initiatives remain scarce. Many projects leverage the concept of privacy as a buzzword or for public relations advantage, rather than addressing tangible issues or enacting substantial changes at the infrastructural and transactional level. 
 That's why a ranking system of all privacy-related projects in the Web3 could help a lot the users to discern.
 
 <img width="1129" alt="Screenshot 2023-01-28 at 16 26 46" src="https://github.com/web3privacy/grants/assets/101947219/8c0aeabe-8ab4-4ef4-b1aa-0c8390318418">
+
+### About Scoring Mechanism: 
+Professional scoring would be a joint R&D with the key web3 people from protocol architects to security specialists. We are collecting feedbacks from privacy experts from the Ethereum Foundation, Railgun, Waku, NYM... while building on the experience of active members from both solar and lunarpunk communities. This will help to create an unbiased take from scratch & enabling a transparent working process, accessible to everyone via a forum.
+
+In parallel to the top-down scorecard method, we'll develop and implement a bottom-up community scoring platform too (think of Metacritic exters + users scorings) -> at the end of the day it's the users who have to become the real watchdogs of the industry, signaling about flaws and shortcomings of solutions.
+
+We interviewed 100 privacy players & gathered an MVP vision — we are running a series of 1-on-1 feedback loop sessions to make the scoring model community validated.
 
 ### Readiness
 - Data: 70%
@@ -120,7 +139,6 @@ functionality mapping (incl. UX/UI research), copywriting, basic brand design sy
 - [3 to 5 months] Scoring model v 2.0 :
 advanced functionalities, scoring model applicability to +500 privacy-preserving web3 projects
 
-
 ### Budget
 - Platform v1.0: 10k
 - Platform v2.0: 8k
@@ -130,19 +148,6 @@ advanced functionalities, scoring model applicability to +500 privacy-preserving
 - Core project manager > Mykola Siusko [GitHub](https://github.com/Msiusko), [Twitter](https://twitter.com/nicksvyaznoy), [LinkedIn](https://www.linkedin.com/in/siusko/)
 - Research track: [Mykola Siusko](https://github.com/Msiusko), [PG](https://github.com/EclecticSamurai)
 - Product:[Coinmandeer](https://github.com/coinmandeer), [Tree](https://github.com/burningtree), [Cryptomar1o](https://github.com/cryptomar1o)
-
-## About Scoring Mechanism: 
-Professional scoring would be a joint R&D with the key web3 people from protocol architects to security specialists. We are collecting feedbacks from privacy experts from the Ethereum Foundation, Railgun, Waku, NYM... while building on the experience of active members from both solar and lunarpunk communities. This will help to create an unbiased take from scratch & enabling a transparent working process, accessible to everyone via a forum.
-
-In parallel to the top-down scorecard method, we'll develop and implement a bottom-up community scoring platform too (think of Metacritic exters + users scorings) -> at the end of the day it's the users who have to become the real watchdogs of the industry, signaling about flaws and shortcomings of solutions.
-
-We interviewed 100 privacy players & gathered an MVP vision — we are running a series of 1-on-1 feedback loop sessions to make the scoring model community validated.
-
-### References:
-- [l2beat](www.l2beat.com)
-- [certik](www.certik.com)
-- [metacritic](https://www.metacritic.com/about-metascores)
-- [Clutch](https://clutch.co/methodology)
 
 
 # ⍚ Privacy Checker Tool
@@ -200,9 +205,9 @@ Following our [Privacy Market Overview](https://github.com/web3privacy/web3priva
 ### Ecosystem/Market fit - Why is it important now? 
 Navigating the complex and delicate realm of privacy is very challenging. Although the focus has recently been put back on this foundamental issue, there is a lack of comprehensive overview and there is still little collaboration in this regard. With regulators centralizing the market and surveillance on the rise, the need for privacy champions is clear, especially with actions against private crypto and platforms like Tornado Cash highlighting the risks. Rather than vying for the top tech and perk, we should work together to create a web that prioritizes our collective privacy.
 
-### Deliverables & Timings:
-- [20 Dec 2023] Draft of 100+ pages 
-- [10 Jan 2024] Final 100+ pages PDF with visuals and metrics
+### Deliverables:
+-  Draft of 100+ pages 
+-  Final 100+ pages PDF with visuals and metrics
 
 ### Budget
 - 5k
@@ -214,18 +219,4 @@ Navigating the complex and delicate realm of privacy is very challenging. Althou
 
 ![Group 3692(2)](https://github.com/web3privacy/grants/assets/101947219/b2db8370-c363-4eda-a132-419891c82455)
 
-⌘ Other no-grant Projects you can help us with:
-
-# ✻ Cultivating & Maintaining [DB](https://web3privacy.info/)
-Web3Privacy Now is a research project aimed at building a culture of privacy industry in web3: the most extensive (+500 Services) database of privacy-enhancing solutions, the framework for PEDApps ideation, use-cases & many more. Feel free to improve it!
-
-### Organizations:
-[Update your data](https://github.com/web3privacy/web3privacy/blob/main/README.md) with pull requests
-
-### General Contributors & User Feedbacks:
-- Follow / DM us: [Twitter](http://twitter.com/web3privacy) | [Bluesky](https://staging.bsky.app/profile/web3privacy.info)
-- Join our community: [Forum](https://forum.web3privacy.info/) | [Signal](https://signal.group/#CjQKIH-1ZYEGp50OBvbJRbITIRxDzjH2pSxl7vdkVZs9g5vgEhDAKUlgYdpxpCpTkNVxow4X)
-- Attend our events: [lu.ma](https://lu.ma/web3privacy)
-
-Enjoy everything!
 
